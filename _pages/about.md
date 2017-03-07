@@ -8,6 +8,58 @@ redirect_from:
   - /about.html
 ---
 
+Contact
+
+@carlystrasser | carlystrasser at gmail
+
+Download CV as a PDF
+
+Employment
+
+Current: Program Officer, Data-Driven Discovery Initiative. Gordon & Betty Moore Foundation
+
+Previous: Manager of Strategic Partnerships at DataCite; Research Data Specialist at California Digital Library
+
+Education
+
+PhD, Biological Oceanography    2008
+
+Massachusetts Institute of Technology/Woods Hole Oceanographic Institution Joint Program in Biological Oceanography
+Dissertation: Metapopulation dynamics of the softshell clam, Mya arenaria (pdf)
+Primary Advisor: Lauren Mullineaux
+BA, Marine Science with Biology Emphasis    2001
+
+University of San Diego
+Thesis: Population Structure of the Antarctic Krill, Euphausia superba
+Advisor: Ron Kaufmann
+Research Products
+
+Go to Research Products page
+
+Previous Research
+
+Go to Previous Research page
+
+Presentations
+
+See my Slideshare site
+
+Teaching
+
+2010: Teaching assistant & guest lecturer, Dynamics of Oceanography, Dalhousie University
+
+2009-10: Instructor, Marine Science, University of Alberta
+
+2009: Guest lecturer, Models In Ecology.  Bamfield Marine Sciences Centre
+
+2004, 05: Guest lecturer, Biological Oceanography.  Woods Hole Oceanographic Institution
+
+2004: Teaching assistant, Biological Oceanography.  Woods Hole Oceanographic Institution
+
+2001-02: Instructor, Introduction to Biology, Maric College, San Diego CA
+
+2000: Teaching assistant, Invertebrate Zoology, University of San Diego
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
