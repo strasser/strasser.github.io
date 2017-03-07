@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Carly Strasser's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,74 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Contact
-
-@carlystrasser | carlystrasser at gmail
-
-Download CV as a PDF
+About me
+======
+Blurb about me
 
 Employment
-
-Current: Program Officer, Data-Driven Discovery Initiative. Gordon & Betty Moore Foundation
-
-Previous: Manager of Strategic Partnerships at DataCite; Research Data Specialist at California Digital Library
+======
+- Current: Program Officer, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). [Gordon & Betty Moore Foundation](http://www.moore.org).
+- Previous: Manager of Strategic Partnerships at [DataCite](http://datacite.org); Research Data Specialist at the University of California's [California Digital Library](http://cdlib.org).
 
 Education
-
-PhD, Biological Oceanography    2008
-
-Massachusetts Institute of Technology/Woods Hole Oceanographic Institution Joint Program in Biological Oceanography
-Dissertation: Metapopulation dynamics of the softshell clam, Mya arenaria (pdf)
-Primary Advisor: Lauren Mullineaux
-BA, Marine Science with Biology Emphasis    2001
-
-University of San Diego
-Thesis: Population Structure of the Antarctic Krill, Euphausia superba
-Advisor: Ron Kaufmann
-Research Products
-
-Go to Research Products page
-
-Previous Research
-
-Go to Previous Research page
-
-Presentations
-
-See my Slideshare site
-
-Teaching
-
-2010: Teaching assistant & guest lecturer, Dynamics of Oceanography, Dalhousie University
-
-2009-10: Instructor, Marine Science, University of Alberta
-
-2009: Guest lecturer, Models In Ecology.  Bamfield Marine Sciences Centre
-
-2004, 05: Guest lecturer, Biological Oceanography.  Woods Hole Oceanographic Institution
-
-2004: Teaching assistant, Biological Oceanography.  Woods Hole Oceanographic Institution
-
-2001-02: Instructor, Introduction to Biology, Maric College, San Diego CA
-
-2000: Teaching assistant, Invertebrate Zoology, University of San Diego
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **PhD in Biological Oceanography, 2008**
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  - [Massachusetts Institute of Technology](http://www.mit.edu/)/[Woods Hole Oceanographic Institution](http://www.whoi.edu) Joint Program in Biological Oceanography
+  - Dissertation: Metapopulation dynamics of the softshell clam, _Mya arenaria_ ([pdf](/images/thesis.pdf))
+  - Primary Advisor: [Lauren Mullineaux](http://www.whoi.edu/profile.do?id=lmullineaux)
+
+- **BA in Marine Science with Biology Emphasis, 2001**
+
+  - [University of San Diego](http://www.sandiego.edu/)
+  - Thesis: Population Structure of the Antarctic Krill, _Euphausia superba_
+  - Advisor: [Ron Kaufmann](http://home.sandiego.edu/~kaufmann/)
+
 
 Site-wide configuration
 ------
@@ -96,7 +52,3 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
