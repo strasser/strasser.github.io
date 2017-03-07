@@ -23,7 +23,7 @@ Education
 - **PhD in Biological Oceanography, 2008**
 
   - [Massachusetts Institute of Technology](http://www.mit.edu/)/[Woods Hole Oceanographic Institution](http://www.whoi.edu) Joint Program in Biological Oceanography
-  - Dissertation: Metapopulation dynamics of the softshell clam, _Mya arenaria_ ([pdf](/images/thesis.pdf))
+  - Dissertation: Metapopulation dynamics of the softshell clam, _Mya arenaria_ ([pdf](/files/Strasser_thesis.pdf))
   - Primary Advisor: [Lauren Mullineaux](http://www.whoi.edu/profile.do?id=lmullineaux)
 
 - **BA in Marine Science with Biology Emphasis, 2001**
