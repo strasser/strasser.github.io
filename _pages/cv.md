@@ -68,8 +68,11 @@ Honors & awards
 National Defense Science and Engineering Graduate Fellowship (2002-2005), National Barry M. Goldwater Scholarship recipient (1999-2001), University of San Diego (USD) DeanÕs List (1997-2001), Outstanding Scholarship for Marine Science Department, USD (2001), Outstanding Research for Marine Science Department, USD (2001), USD Associated Students Research Grant (1999), USD Trustee Scholarship Recipient (1997-2001) 
 
 
-Publications
+Research outputs
 ======
+A full list of research outputs is available [here](/outputs.md)
+
+<!-- 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -79,4 +82,6 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+-->
   
