@@ -3,20 +3,22 @@ main:
   - title: "Research Products"
     url: /products/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Previous Research"
     url: /previous-research/    
-    
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
-    url: /cv/
-    
+    url: /files/cv.pdf/
+
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
+
 #  - title: "Guide"
 #    url: /markdown/
+
+# - title: "Talks"
+#   url: /talks/    
+
+ 
