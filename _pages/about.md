@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: " "
+title: "Open science advocate | data science groupie | former marine scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Open science advocate | data science groupie | former marine scientist
 
 I am a Program Officer for the Data-Driven Discovery Initiative, an effort within the Moore Foundation’s Science Program focused on promoting the both the researchers and the practices required for impactful data-driven research, with a broader vision of accelerating scientific discovery.
 
