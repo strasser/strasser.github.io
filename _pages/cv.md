@@ -17,38 +17,34 @@ redirect_from:
 
 ### 2015 - Current: [Gordon & Betty Moore Foundation](http://www.moore.org)
 
-**Program Officer**, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Contribute to strategy development, implementation and management. Includes management of grants in the DDD InitiativeÕs portfolio; planning and overseeing grantee meetings, collaborations and partnerships; partnering with grantees and creating linkages that add value to the field; and tracking trends and synthesizing knowledge relevant to the initiative issue areas. Separate from the DDD Initiative, I source and develop grants related to improving how science is conducted, including projects focused on data management,  scholarly communication, and synthesis studies.
+  **Program Officer**, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Contribute to strategy development, implementation and management. Includes management of grants in the DDD InitiativeÕs portfolio; planning and overseeing grantee meetings, collaborations and partnerships; partnering with grantees and creating linkages that add value to the field; and tracking trends and synthesizing knowledge relevant to the initiative issue areas. Separate from the DDD Initiative, I source and develop grants related to improving how science is conducted, including projects focused on data management,  scholarly communication, and synthesis studies.
 
 ### 2011 - 2015: University of California's [California Digital Library](http://cdlib.org)
 
-**Research Data Specialist**. Operated as a researcher liaison by providing guidance and consultation about data stewardship to UC researchers; lead workshops and give seminars on the value of data management for scientists; promote open science and open data within the UC and beyond. [Dash](http://cdluc3.github.io/dash) data curation platform product manager; [DMPTool](http://dmptool.org) project team member. Supervisor, CLIR/DLF Postdoctoral fellow in data curation. Communications and outreach coordinator: maintained blog and social media accounts. Briefly seconded by [DataCite](http://datacite.org) to serve as Manager of Strategic Partnerships.
+  **Research Data Specialist**. Operated as a researcher liaison by providing guidance and consultation about data stewardship to UC researchers; lead workshops and give seminars on the value of data management for scientists; promote open science and open data within the UC and beyond. [Dash](http://cdluc3.github.io/dash) data curation platform product manager; [DMPTool](http://dmptool.org) project team member. Supervisor, CLIR/DLF Postdoctoral fellow in data curation. Communications and outreach coordinator: maintained blog and social media accounts. Briefly seconded by [DataCite](http://datacite.org) to serve as Manager of Strategic Partnerships.
 
 ### 2010 - 2011: [DataONE](http://dataone.org)
 
-**Postdoctoral Associate** based at National Center for Ecological Analysis & Synthesis. Engaged the scientific and data management community in the Data Observation Network for Earth (DataONE), which is cyber-infrastructure that will provide universal access to environmental and ecological data. Included conducting research related to data education, workshop organization, and participation in working groups to engage the community. 
+  **Postdoctoral Associate** based at National Center for Ecological Analysis & Synthesis. Engaged the scientific and data management community in the Data Observation Network for Earth (DataONE), which is cyber-infrastructure that will provide universal access to environmental and ecological data. Included conducting research related to data education, workshop organization, and participation in working groups to engage the community. 
 
 ### 2009 - 2010: University of Alberta & Dalhousie University
 
-**Postdoctoral Investigator**. Used theoretical and experimental approaches to understand the role of life stage in establishment of invasive copepods introduced via ballast water.
+  **Postdoctoral Investigator**. Used theoretical and experimental approaches to understand the role of life stage in establishment of invasive copepods introduced via ballast water.
 
 ### 2008: Woods Hole Oceanographic Institution
 
-**Postdoctoral Investigator**. Developed demographic models of the endangered North Atlantic right whale population based on mark-recapture data.
+  **Postdoctoral Investigator**. Developed demographic models of the endangered North Atlantic right whale population based on mark-recapture data.
 
 
 ## Education
 
-- **PhD in Biological Oceanography, 2008**
+### PhD in Biological Oceanography, 2008
 
-  - [Massachusetts Institute of Technology](http://www.mit.edu/)/[Woods Hole Oceanographic Institution](http://www.whoi.edu) Joint Program in Biological Oceanography
-  - Dissertation: Metapopulation dynamics of the softshell clam, _Mya arenaria_ ([pdf](/files/Strasser_thesis.pdf))
-  - Primary Advisor: [Lauren Mullineaux](http://www.whoi.edu/profile.do?id=lmullineaux)
+[Massachusetts Institute of Technology](http://www.mit.edu/)/[Woods Hole Oceanographic Institution](http://www.whoi.edu) Joint Program in Biological Oceanography. Dissertation: Metapopulation dynamics of the softshell clam, _Mya arenaria_ ([pdf](/files/Strasser_thesis.pdf)). Primary Advisor: [Lauren Mullineaux](http://www.whoi.edu/profile.do?id=lmullineaux)
 
-- **BA in Marine Science with Biology Emphasis, 2001**
+### BA in Marine Science with Biology Emphasis, 2001
 
-  - [University of San Diego](http://www.sandiego.edu/)
-  - Thesis: Population Structure of the Antarctic Krill, _Euphausia superba_
-  - Advisor: [Ron Kaufmann](http://home.sandiego.edu/~kaufmann/)
+[University of San Diego](http://www.sandiego.edu/). Thesis: Population Structure of the Antarctic Krill, _Euphausia superba_. Advisor: [Ron Kaufmann](http://home.sandiego.edu/~kaufmann/).
 
   
 ## Professional activities & service
