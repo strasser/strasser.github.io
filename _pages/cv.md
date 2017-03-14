@@ -70,7 +70,7 @@ National Defense Science and Engineering Graduate Fellowship (2002-2005), Nation
 
 ## Research outputs
 
-A full list of research outputs is available [here](/outputs.md)
+A full list of research outputs is available [here](/products.md)
 
 <!-- 
   <ul>{% for post in site.publications %}
