@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Program Officer for the Data-Driven Discovery Initiative, an effort within the Moore Foundation’s Science Program focused on promoting the both the researchers and the practices required for impactful data-driven research, with a broader vision of accelerating scientific discovery.
+I am a Program Officer for the Data-Driven Discovery Initiative, an effort within the Moore Foundation's Science Program focused on promoting academic data science.
 
-Previously, I was a Research Data Specialist at the California Digital Library. In this role I was involved in development and implementation of many of the University of California Curation Center's services, and worked to promote data sharing and good data management practices among researchers at the UC and beyond. My prior experience as a researcher in Marine Science and Mathematical Ecology has informed my work on ushering in the new era of open, transparent, and collaborative science. 
+Previously, I was a Research Data Specialist at the California Digital Library. In this role I was involved in development and implementation of many of the University of California Curation Center's services, and worked to promote data sharing and good data management practices among researchers at the UC and beyond. My prior experience as a researcher in marine science and mathematical ecology has informed my efforts to promote a new era of open, transparent, and collaborative science. 
 
 I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program.
 
