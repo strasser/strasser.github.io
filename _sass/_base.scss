@@ -110,9 +110,9 @@ a {
     @extend %tab-focus;
   }
 
-  &:hover,
+  &:hover 10px,
   &:active {
-    outline: 1;
+    outline: 10px;
   }
 }
 
