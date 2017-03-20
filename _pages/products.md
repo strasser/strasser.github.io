@@ -74,7 +74,7 @@ C Strasser, P Cruse, J Kunze, and S Abrams. 2013. Data from "DataUp: A tool to h
 
 CA Strasser and SE Hampton. 2012. Data from "The Fractured Lab Notebook: Undergraduates and Ecological Data Management Training in the United States." [Available from KNB Repository](http://knb.ecoinformatics.org/knb/metacat/knb.300.9/knb).
 
-Grants
+### Grants
 
 C Strasser, P Cruse, and S Abrams. 2014. "Dash: Improving Community Repositories for Better Data Sharing." Award from the Alfred P. Sloan Foundation. Available at [escholarship.org/uc/item/2mw6v93b](http://escholarship.org/uc/item/2mw6v93b). Project website.
 
