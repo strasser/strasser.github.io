@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**_[Download as PDF](https://strasser.github.io/files/cv.pdf)_**
+**[Download as PDF](https://strasser.github.io/files/cv.pdf)**
 
 ---
 
@@ -17,7 +17,7 @@ redirect_from:
 
 ### 2015 - Current: [Gordon & Betty Moore Foundation](http://www.moore.org)
 
-  **Program Officer**, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Contribute to strategy development, implementation and management. Includes management of grants in the DDD InitiativeÕs portfolio; planning and overseeing grantee meetings, collaborations and partnerships; partnering with grantees and creating linkages that add value to the field; and tracking trends and synthesizing knowledge relevant to the initiative issue areas. Separate from the DDD Initiative, I source and develop grants related to improving how science is conducted, including projects focused on data management,  scholarly communication, and synthesis studies.
+  **Program Officer**, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Contribute to strategy development, implementation and management. Includes management of grants in the DDD Initiative's portfolio; planning and overseeing grantee meetings, collaborations and partnerships; partnering with grantees and creating linkages that add value to the field; and tracking trends and synthesizing knowledge relevant to the initiative issue areas. Separate from the DDD Initiative, I source and develop grants related to improving how science is conducted, including projects focused on data management,  scholarly communication, and synthesis studies.
 
 ### 2011 - 2015: University of California's [California Digital Library](http://cdlib.org)
 
