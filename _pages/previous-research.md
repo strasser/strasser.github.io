@@ -4,6 +4,8 @@ title: "Previous research"
 permalink: /previous-research/
 author_profile: true
 ---
+<body link="#C0C0C0" vlink="#808080" alink="#FF0000"> 
+
 
 _Prior to being a data sharing and open science advocate, I was a marine scientist. Projects I worked on are below._
 
