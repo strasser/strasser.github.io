@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Previous research"
 permalink: /previous-research/
 author_profile: true
