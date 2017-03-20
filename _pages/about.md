@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<body link="#C0C0C0" vlink="#808080" alink="#FF0000"> 
 
 I am a Program Officer for the Data-Driven Discovery Initiative, an effort within the Moore Foundation's Science Program focused on promoting academic data science.
 
