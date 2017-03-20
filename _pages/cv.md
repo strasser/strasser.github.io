@@ -64,7 +64,7 @@ _Postdoctoral Investigator_. Developed demographic models of the endangered Nort
 
 ## Honors & awards
 
-National Defense Science and Engineering Graduate Fellowship (2002-2005), National Barry M. Goldwater Scholarship recipient (1999-2001), University of San Diego (USD) DeanÕs List (1997-2001), Outstanding Scholarship for Marine Science Department, USD (2001), Outstanding Research for Marine Science Department, USD (2001), USD Associated Students Research Grant (1999), USD Trustee Scholarship Recipient (1997-2001) 
+National Defense Science and Engineering Graduate Fellowship (2002-2005), National Barry M. Goldwater Scholarship recipient (1999-2001), University of San Diego (USD) Dean's List (1997-2001), Outstanding Scholarship for Marine Science Department, USD (2001), Outstanding Research for Marine Science Department, USD (2001), USD Associated Students Research Grant (1999), USD Trustee Scholarship Recipient (1997-2001) 
 
 
 ## Research outputs
