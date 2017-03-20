@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Research Products"
 permalink: /products/
 author_profile: true
