@@ -16,22 +16,22 @@ author_profile: true
 {% endfor %}
 -->
 
-I previously wrote for the University of California Curation Center (UC3) blog, [Data Pub](https://datapub.cdlib.org). All of my posts can be found [here](https://datapub.cdlib.org/?s=Carly+Strasser). A selection of my most read posts: 
+I previously wrote for the University of California Curation Center (UC3) blog, [Data Pub](https://datapub.cdlib.org). All of my posts can be found [here](https://datapub.cdlib.org/?s=Carly+Strasser). A selection of my most read posts (all external links): 
 
 
-[Researchers! Make your previous work OA](/_posts/2012-11-06-researchers-make-your-previous-work-oa.md)
+[Researchers! Make your previous work OA](https://datapub.cdlib.org/2012/11/06/researchers-make-your-previous-work-oa/)
 
-[NSF now allows data in biosketch accomplishments](/_posts/2013-01-10-nsf-now-allows-data-in-biosketch-accomplishments.md)
+[NSF now allows data in biosketch accomplishments](https://datapub.cdlib.org/2013/01/10/nsf-now-allows-data-in-biosketch-accomplishments/)
 
-[Closed data: excuses, excuses](/_posts/2013-04-24-closed-data-excuses-excuses.md)
+[Closed data... excuses, excuses](https://datapub.cdlib.org/2013/04/24/closed-data-excuses-excuses/)
 
-[Impact factors: a broken system](/_posts/2013-05-22-impact-factors-a-broken-system.md)
+[Impact factors: a broken system](https://datapub.cdlib.org/2013/05/22/impact-factors/)
 
-[Researhers - Get your ORCID](/_posts/2013-11-07-researchers-get-your-orcid.md)
+[Researchers - Get your ORCID](https://datapub.cdlib.org/2013/11/07/researchers-get-your-orcid/)
 
-[#PLOSfail and data sharing drama](/_posts/2014-03-13-lit-review-plosfail-and-data-sharing-drama.md)
+[#PLOSfail and data sharing drama](https://datapub.cdlib.org/2014/03/13/lit-review-plosfail-and-data-sharing-drama/)
 
-[The 10 things every new grad students should do](/_posts/2014-10-14-the-10-things-every-new-grad-student-should-do.md)
+[The 10 things every new grad students should do](https://datapub.cdlib.org/2014/10/14/the-10-things-every-new-grad-student-should-do/)
 
 
  
