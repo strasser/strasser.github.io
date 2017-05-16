@@ -9,8 +9,8 @@ main:
   - title: "Previous Research"
     url: /previous-research/    
 
- - title: "Blog Posts"
-   url: /blog-posts/
+  - title: "Blog Posts"
+    url: /blog-posts/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
