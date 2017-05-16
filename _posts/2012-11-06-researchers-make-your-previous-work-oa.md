@@ -1,7 +1,7 @@
 ---
 title: 'Researchers! Make Your Previous Work OA'
 date: 2012-11-06
-permalink: /posts/2012/11/blog-post-2/researchers-make-your-previous-work-oa/
+permalink: /posts/2012/11/researchers-make-your-previous-work-oa/
 ---
 
 For the last two weeks, I've been posting on Open Stuff, including [Open Access][1] and [Open Data, Open Science, Open Notebooks, etc etc][2]. I'm continuing the thread this week with a discussion of how researchers can make most, if not all, of their publications open.

@@ -1,13 +1,16 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Research Products"
     url: /products/
 
   - title: "Previous Research"
     url: /previous-research/    
 
-  - title: "CV"
-    url: /cv/
+ - title: "Blog Posts"
+   url: /blog-posts/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -16,9 +19,4 @@ main:
 #    url: /markdown/
 
 # - title: "Talks"
-#   url: /talks/    
-
-# - title: "Blog Posts"
-#   url: /year-archive/
-
-  
+#   url: /talks/
