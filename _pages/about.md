@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Open science advocate, data science groupie, former marine scientist"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
