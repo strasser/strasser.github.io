@@ -18,6 +18,8 @@ author_profile: true
 
 ### Publications
 
+C Strasser and E Khare. 2017. Estimated effects of implementing an open access policy for grantees at a private foundation. _PeerJ_ 5:e3853. [doi.org/10.7717/peerj.3853](https://doi.org/10.7717/peerj.3853) (Open Access). 
+
 C Strasser. 2016. Preprints: The Bigger Picture. _The Winnower_ 3:e146955.56313. [dx.doi.org/10.15200/winn.146955.56313](https://thewinnower.com/papers/5010-preprints-the-bigger-picture) (Open Access). Also available as [version for comment on Medium](https://medium.com/@carlystrasser/preprints-the-bigger-picture-a3108193b57d#.hfbd5ydgb).
 
 C Strasser and 22 others. 2016. Preprints for the life sciences. _Science_ 352: 6288. pp. 889-901. [dx.doi.org/10.1126/science.aaf9133](https://medium.com/@carlystrasser/preprints-the-bigger-picture-a3108193b57d#.hfbd5ydgb) (Open Access).
