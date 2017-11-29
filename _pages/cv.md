@@ -14,9 +14,13 @@ redirect_from:
 
 ## Research & professional experience 
 
-### 2015 - Current: [Gordon & Betty Moore Foundation](http://www.moore.org)
+### 2018 - Current: [Collaborative Knowledge Foundation (Coko)](http://coko.foundation)
 
-_Program Officer_, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Contribute to strategy development, implementation and management. Includes management of grants in the DDD Initiative's portfolio; planning and overseeing grantee meetings, collaborations and partnerships; partnering with grantees and creating linkages that add value to the field; and tracking trends and synthesizing knowledge relevant to the initiative issue areas. Separate from the DDD Initiative, I source and develop grants related to improving how science is conducted, including projects focused on data management,  scholarly communication, and synthesis studies.
+_Director of Strategic Development_. Oversee the development of the Coko community program across all publishing products and services.
+
+### 2015 - 2017: [Gordon & Betty Moore Foundation](http://www.moore.org)
+
+_Program Officer_, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Contributed to strategy development, implementation and management. Included management of grants in the DDD Initiative's portfolio; planning and overseeing grantee meetings, collaborations and partnerships; partnering with grantees and creating linkages that add value to the field; and tracking trends and synthesizing knowledge relevant to the initiative issue areas. Separate from the DDD Initiative, I sourced and developed grants related to improving how science is conducted, including projects focused on data management,  scholarly communication, and synthesis studies.
 
 ### 2011 - 2015: University of California's [California Digital Library](http://cdlib.org)
 
