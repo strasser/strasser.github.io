@@ -7,6 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=11294611; 
+var sc_invisible=1; 
+var sc_security="a8d240cd"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11294611/0/a8d240cd/1/" alt="web
+stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
 
 I am the Director of Strategic Development for the Collaborative Knowledge Foundation ([Coko](http://coko.foundation)). Coko builds open source software solutions for scholarly communication that foster openness, collaboration, and speed. 
 
