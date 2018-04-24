@@ -25,7 +25,9 @@ src="//c.statcounter.com/11294611/0/a8d240cd/1/" alt="web
 stats"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-I am the Director of Strategic Development for the Collaborative Knowledge Foundation ([Coko](http://coko.foundation)). Coko builds open source software solutions for scholarly communication that foster openness, collaboration, and speed. 
+## Open science advocate and recovering researcher.
+
+I'm the Director of Strategic Development for the Collaborative Knowledge Foundation ([Coko](http://coko.foundation)). Coko builds open source software solutions for scholarly communication that foster openness, collaboration, and speed. 
 
 Previously, I was a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. I also worked as a Research Data Specialist at the [California Digital Library](http://cdlib.org) where I was involved in development and implementation of many of the University of California Curation Center's services, and worked to promote data sharing and good data management practices among researchers.
 
