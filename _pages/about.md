@@ -27,9 +27,9 @@ stats"></a></div></noscript>
 
 ## Open science advocate and recovering researcher.
 
-I'm the Director of Strategic Development for the Collaborative Knowledge Foundation ([Coko](http://coko.foundation)). Coko builds open source software solutions for scholarly communication that foster openness, collaboration, and speed. 
+I will be joining the [Fred Hutchinson Cancer Research Center](http://www.fredhutch.org/en.html) in July as their Director of Academic Alliances and Data Strategy. In this role, I will develop partnerships with academic and non-profit research organizations in support of [Hutch Data Commonwealth](https://research.fhcrc.org/hdc/en.html) initiatives.
 
-Previously, I was a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. I also worked as a Research Data Specialist at the [California Digital Library](http://cdlib.org) where I was involved in development and implementation of many of the University of California Curation Center's services, and worked to promote data sharing and good data management practices among researchers.
+Previously, I was a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. I also worked as Director of Strategic Development for the Collaborative Knowledge Foundation ([Coko](http://coko.foundation)), and as a Research Data Specialist at the [California Digital Library](http://cdlib.org) where I was involved in development and implementation of many of the University of California Curation Center's services, and worked to promote data sharing and good data management practices among researchers.
 
 I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program.
 
