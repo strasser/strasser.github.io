@@ -20,7 +20,7 @@ _Director of Academic Alliances and Data Strategy_. Develop partnerships with ac
 
 ### December 2017 - June 2018: [Collaborative Knowledge Foundation (Coko)](http://coko.foundation)
 
-_Director of Strategic Development_. Establish and manage the development of the [Coko](http://coko.foundation) community program across all publishing products and services. Work with marketing team, developers, and product managers to effectively communicate Coko's mission of creating open source infrastructure for research communication. Coordinate meetings, write grant proposals, and produce external-facing information about Coko's book and journal publishing platforms.
+_Director of Strategic Development_. Established and manageed the development of the [Coko](http://coko.foundation) community program across all publishing products and services. Worked with marketing team, developers, and product managers to effectively communicate Coko's mission of creating open source infrastructure for research communication. Coordinated meetings, wrote grant proposals, and produced external-facing information about Coko's book and journal publishing platforms.
 
 
 ### 2015 - 2017: [Gordon & Betty Moore Foundation](http://www.moore.org)
