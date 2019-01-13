@@ -25,11 +25,13 @@ src="//c.statcounter.com/11294611/0/a8d240cd/1/" alt="web
 stats"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-## Open science advocate and recovering researcher.
+## Supporting data-driven research through partnership development.
 
-I am the Director of Academic Alliances and Data Strategy at the [Fred Hutchinson Cancer Research Center](http://www.fredhutch.org/en.html). In this role, I develop partnerships with academic and non-profit research organizations in support of [Hutch Data Commonwealth](https://research.fhcrc.org/hdc/en.html) initiatives.
+Open science and data management advocate with experience in developing academic data science programs, driving research software development, and coordinating collaborative projects in research publishing and documentation. Skilled in forging partnerships, aligning activities with organizational goals, and connecting individuals to benefit science. 
 
-Previously, I was a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. I also worked as Director of Strategic Development for the Collaborative Knowledge Foundation ([Coko](http://coko.foundation)), and as a Research Data Specialist at the [California Digital Library](http://cdlib.org) where I was involved in development and implementation of many of the University of California Curation Center's services, and worked to promote data sharing and good data management practices among researchers.
+**Currently** I am the Director of Academic Alliances and Data Strategy at the [Fred Hutchinson Cancer Research Center](http://www.fredhutch.org/en.html). In this role, I develop partnerships with academic and non-profit research organizations in support of [Hutch Data Commonwealth](https://research.fhcrc.org/hdc/en.html) initiatives.
+
+**Previously** I was a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. I also worked as Director of Strategic Development for the Collaborative Knowledge Foundation ([Coko](http://coko.foundation)), and as a Research Data Specialist at the [California Digital Library](http://cdlib.org) where I was involved in development and implementation of many of the University of California Curation Center's services, and worked to promote data sharing and good data management practices among researchers.
 
 I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program.
 
