@@ -18,7 +18,7 @@ author_profile: true
 
 ### Publications
 
-J Chodacki, P Cruse, J Lin, C Neylon, D Pattinson, & C Strasser. 2018. _Supporting Research Communications: a guide_. https://www.supporters.guide/
+J Chodacki, P Cruse, J Lin, C Neylon, D Pattinson, & C Strasser. 2018. _Supporting Research Communications: a guide_. https://www.supporters.guide/ (free book download)
 
 C Strasser and E Khare. 2017. Estimated effects of implementing an open access policy for grantees at a private foundation. _PeerJ_ 5:e3853. [doi.org/10.7717/peerj.3853](https://doi.org/10.7717/peerj.3853) (Open Access). 
 
