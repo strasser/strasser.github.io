@@ -16,7 +16,7 @@ redirect_from:
 
 ### July 2017 - Current: [Fred Hutchinson Cancer Research Center](http://fredhutch.org)
 
-_Director of Academic Alliances and Data Strategy_. Develop partnerships with academic and non-profit research organizations in support of Hutch Data Commonwealth initiatives, especially as they relate to data-driven research. Connect Fred Hutch researchers working in bioinformatics and data science and explore collaborative opportunities that will benefit scientific goals of the institution.
+_Director of Alliances and Data Strategy_. Develop partnerships with academic and non-profit research organizations in support of Hutch Data Commonwealth initiatives, especially as they relate to data-driven research. Connect Fred Hutch researchers working in bioinformatics and data science and explore collaborative opportunities that will benefit scientific goals of the institution.
 
 ### December 2017 - June 2018: [Collaborative Knowledge Foundation (Coko)](http://coko.foundation)
 
