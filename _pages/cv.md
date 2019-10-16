@@ -47,11 +47,11 @@ _Postdoctoral Investigator_. Developed demographic models of the endangered Nort
 
 ## Education
 
-### PhD in Biological Oceanography, 2008
+### PhD in Biological Oceanography
 
 [Massachusetts Institute of Technology](http://www.mit.edu/)/[Woods Hole Oceanographic Institution](http://www.whoi.edu) Joint Program in Biological Oceanography. Dissertation: Metapopulation dynamics of the softshell clam, _Mya arenaria_ ([pdf](/files/Strasser_thesis.pdf)). Primary Advisor: [Lauren Mullineaux](http://www.whoi.edu/profile.do?id=lmullineaux)
 
-### BA in Marine Science with Biology Emphasis, 2001
+### BA in Marine Science with Biology Emphasis
 
 [University of San Diego](http://www.sandiego.edu/). Thesis: Population Structure of the Antarctic Krill, _Euphausia superba_. Advisor: [Ron Kaufmann](http://home.sandiego.edu/~kaufmann/).
 
@@ -59,8 +59,7 @@ _Postdoctoral Investigator_. Developed demographic models of the endangered Nort
 ## Professional activities & service
 
 - **NSF Review Panelist**, Office of Cyber-Infrastructure (2011); NSF Research Traineeship Program (2014)
-- **Reviewer**,  Moore Foundation Inventor Fellowship Program, International Journal of Geo-Information, PLOS ONE, PLOS Biology, Laura Bush 21st Century Librarian Grant Program, International Journal on Digital Libraries, Journal of eScience Librarianship, Ecology Letters, Conservation Biology, Nature Biotech, Conservation Genetics, Journal of Sea Research, Marine Ecology Progress Series, Journal of Marine Biology, Marine Biology Research, Aquatic Biology, Journal of Experimental Marine Biology and Ecology, NSF Proposals, IMLS Proposals
-- **Member**, American Geophysical Union (2011 - present); American Society of Limnology and Oceanography (2003 - present); Ecological Society of America (2007 - present); Society for Mathematical Biology (2007 - 2010); Student Representative Committee to the Joint Program in Biological Oceanography, WHOI (2007); Biology Department Graduate Student Representative (2004)
+- **Reviewer**,  Sloan Foundation, Moore Foundation Inventor Fellowship Program, International Journal of Geo-Information, PLOS ONE, PLOS Biology, Laura Bush 21st Century Librarian Grant Program, International Journal on Digital Libraries, Journal of eScience Librarianship, Ecology Letters, Conservation Biology, Nature Biotech, Conservation Genetics, Journal of Sea Research, Marine Ecology Progress Series, Journal of Marine Biology, Marine Biology Research, Aquatic Biology, Journal of Experimental Marine Biology and Ecology, NSF Proposals, IMLS Proposals
 
 
 ## Teaching experience
