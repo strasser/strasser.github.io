@@ -35,6 +35,9 @@ Open science and data management advocate with experience in developing academic
 
 I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program.
 
+### Looking for blog posts? 
+Check out [strasser.github.io/blog-posts](https://strasser.github.io/blog-posts/)
+
 <!-- 
 Work
 ======
