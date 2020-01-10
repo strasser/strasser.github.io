@@ -16,25 +16,25 @@ redirect_from:
 
 ### July 2018 - Current: [Fred Hutchinson Cancer Research Center](http://fredhutch.org)
 
-_Director of Alliances and Data Strategy_. Develop partnerships with academic and non-profit research organizations in support of Hutch Data Commonwealth initiatives, especially as they relate to data-driven research. Connect Fred Hutch researchers working in bioinformatics and data science and explore collaborative opportunities that will benefit scientific goals of the institution.
+_Director of Alliances and Data Strategy_. Contribute to strategic support of data-intensive research at Fred Hutch through internal and external partnerships, community building, infrastructure development, and new initiatives designed to facilitate data science. Worked the Chief Data Officer to create the Cascadia Data Alliance, a regional health data partnership funded by Microsoft. Manage relationships with internal Fred Hutch groups, including the Translational Data Science Integrated Research Center, to align efforts and ensure researchers are equipped to engage in data science. Lead data sharing and open science discussions at the Hutch. Founded Fred Hutch Data Science Cooperative (The Coop), which connects researchers with expertise, training, and the data science community. Assembled a diverse team that focuses on connecting with researchers to meet data needs.
 
 ### December 2017 - June 2018: [Collaborative Knowledge Foundation (Coko)](http://coko.foundation)
 
-_Director of Strategic Development_. Established and manageed the development of the [Coko](http://coko.foundation) community program across all publishing products and services. Worked with marketing team, developers, and product managers to effectively communicate Coko's mission of creating open source infrastructure for research communication. Coordinated meetings, wrote grant proposals, and produced external-facing information about Coko's book and journal publishing platforms.
+_Director of Strategic Development_. Established and managed the development of the Coko community program across all publishing products and services. Worked with marketing team, developers, and product managers to effectively communicate Coko’s mission of creating open source infrastructure for research communication.
 
 
 ### 2015 - 2017: [Gordon & Betty Moore Foundation](http://www.moore.org)
 
-_Program Officer_, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Contributed to strategy development, implementation, and management of the Initiative. Managed grants in the Initiative's portfolio; planned and oversaw grantee meetings, collaborations and partnerships; and tracked trends, synthesizing knowledge relevant to the initiative. Separate from the Initiative, sourced and developed grants related to improving how science is conducted, including projects focused on data management,  scholarly communication, and synthesis studies. Led the Foundation in establishing an [Open Access policy](https://www.moore.org/article-detail?newsUrlName=moore-foundation-rolls-out-new-open-access-policy) for all grantees.
+_Program Officer_, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Developed, implemented, and managed the Data-Driven Discovery Initiative alongside the Program Director. Managed grants in the Initiative’s portfolio; planned and oversaw grantee meetings, col- laborations and partnerships; and tracked trends, synthesizing knowledge relevant to the Initiative. Separate from the Initiative, sourced and developed grants related to improving how science is con- ducted, including projects focused on data management, scholarly communication, and synthesis studies. Led the Foundation in establishing an [Open Access policy](https://www.moore.org/article-detail?newsUrlName=moore-foundation-rolls-out-new-open-access-policy) for all grantees.
 
 
 ### 2011 - 2015: University of California's [California Digital Library](http://cdlib.org)
 
-_Research Data Specialist_. Operated as a researcher liaison by providing guidance and consultation about data stewardship to UC researchers; lead workshops and give seminars on the value of data management for scientists; promote open science and open data within the UC and beyond. [Dash](http://cdluc3.github.io/dash) data curation platform product manager; [DMPTool](http://dmptool.org) project team member. Supervisor, CLIR/DLF Postdoctoral Fellow in data curation. Communications and outreach coordinator: maintained blog and social media accounts. Briefly seconded by [DataCite](http://datacite.org) to serve as Manager of Strategic Partnerships.
+_Research Data Specialist_. Provided expert guidance and consultation on data stewardship to UC researchers; led workshops and gave seminars on the value of data management for scientists; promoted open science and open data within the UC and beyond. [Dash](http://cdluc3.github.io/dash) data curation platform; [DMPTool](http://dmptool.org) project team member. Supervisor, CLIR/DLF Postdoctoral Fellow in Data Curation. Briefly seconded by DataCite [DataCite](http://datacite.org) to serve as Manager of Strategic Partnerships.
 
 ### 2010 - 2011: [DataONE](http://dataone.org)
 
-_Postdoctoral Associate_ based at National Center for Ecological Analysis & Synthesis. Engaged the scientific and data management community in the Data Observation Network for Earth (DataONE), which is cyber-infrastructure that will provide universal access to environmental and ecological data. Included conducting research related to data education, workshop organization, and participation in working groups to engage the community. 
+_Postdoctoral Associate_ based at National Center for Ecological Analysis & Synthesis. Engaged the scientific and data management community in the Data Observation Network for Earth ([DataONE](http://dataone.org)), an NSF-funded cyber-infrastructure project to provide universal access to environmen- tal and ecological data. Conducted research related to data education, organized and led workshops, and participated in working groups.
 
 ### 2009 - 2010: University of Alberta & Dalhousie University
 
@@ -58,24 +58,11 @@ _Postdoctoral Investigator_. Developed demographic models of the endangered Nort
   
 ## Professional activities & service
 
-- **NSF Review Panelist**, Office of Cyber-Infrastructure (2011); NSF Research Traineeship Program (2014)
-- **Reviewer**,  Sloan Foundation, Moore Foundation Inventor Fellowship Program, International Journal of Geo-Information, PLOS ONE, PLOS Biology, Laura Bush 21st Century Librarian Grant Program, International Journal on Digital Libraries, Journal of eScience Librarianship, Ecology Letters, Conservation Biology, Nature Biotech, Conservation Genetics, Journal of Sea Research, Marine Ecology Progress Series, Journal of Marine Biology, Marine Biology Research, Aquatic Biology, Journal of Experimental Marine Biology and Ecology, NSF Proposals, IMLS Proposals
+**Board Member**, [Dryad Digital Repository](http://datadryad.org) (2017 – present)
 
+**Advisory Board**, [Make Data Count project](https://makedatacount.org/) (2017 – present)
 
-## Teaching experience
-
-* Marine Science at University of Alberta, 2009-2010
-* Dynamics of Oceanography at Dalhousie University, 2010
-* Models in Ecology at Bamfield Marine Sciences Centre, 2009
-* Biological Oceanography at WHOI, 2004-2005
-* General Biology at Maric College, 2001-2002
-* Invertebrate Zoology at University of San Diego, 2000
-
-
-## Honors & awards
-
-National Defense Science and Engineering Graduate Fellowship (2002-2005), National Barry M. Goldwater Scholarship recipient (1999-2001), University of San Diego (USD) Dean's List (1997-2001), Outstanding Scholarship for Marine Science Department, USD (2001), Outstanding Research for Marine Science Department, USD (2001), USD Associated Students Research Grant (1999), USD Trustee Scholarship Recipient (1997-2001) 
-
+Review Panelist for NSF Office of Cyber-Infrastructure (2011), NSF Research Traineeship Program (2014), & IMLS Laura Bush 21st Century Librarian Program; Alfred P. Sloan Founda- tion; Nature Scientific Data; Moore Foundation Inventor Fellowship Program; International Journal of Geo-Information; PLOS ONE; PLOS Biology; International Journal on Digital Libraries; Journal of eScience Librarianship; Ecology Letters, Conservation Biology; Nature Biotech; Conservation Genetics; Journal of Sea Research; Marine Ecology Progress Series; Journal of Marine Biology; Marine Biology Research; Aquatic Biology; Journal of Experimental Marine Biology and Ecology
 
 ## Research outputs
 
