@@ -52,33 +52,33 @@ S Hampton, C Strasser, and J Tewksbury. 2013. Growing Pains for Ecology in the T
 
 CA Strasser and SE Hampton. 2012. The fractured lab notebook: undergraduates and ecological data management training in the United States. _Ecosphere_ 3:art116. [doi:10.1890/ES12-00139.1](http://www.esajournals.org/doi/full/10.1890/ES12-00139.1) (Open Access). [Data in KNB](http://knb.ecoinformatics.org/knb/metacat/knb.300.9/knb).
 
-S Hampton, J Tewksbury and CA Strasser. 2012. Ecological data in the Information Age.  Guest Editorial in _Frontiers in Ecology and the Environment_ 10:59. [doi:10.1890/1540-9295-10.2.59](http://www.esajournals.org/doi/full/10.1890/1540-9295-10.2.59). [Open Access Copy](http://www.esajournals.org/doi/full/10.1890/1540-9295-10.2.59).
+S Hampton, J Tewksbury and CA Strasser. 2012. Ecological data in the Information Age.  Guest Editorial in _Frontiers in Ecology and the Environment_ 10:59. [doi:10.1890/1540-9295-10.2.59](http://doi.org/10.1890/1540-9295-10.2.59). [Open Access Copy](http://www.esajournals.org/doi/full/10.1890/1540-9295-10.2.59).
 
-CA Strasser, R Cook, W Michener, and A Budden. 2012. Primer on Data Management: What You Always Wanted to Know. A DataONE publication, available via the California Digital Library. [doi:10.5060/D2251G48](http://dx.doi.org/doi:10.5060/D2251G48) (Open Access)
+CA Strasser, R Cook, W Michener, and A Budden. 2012. Primer on Data Management: What You Always Wanted to Know. A DataONE publication, available via the California Digital Library. [doi:10.5060/D2251G48](http://doi.org/doi:10.5060/D2251G48) (Open Access)
 
 ## Ecological research publications
 
-P St-Onge, JM Sevigny, CA Strasser, and R Tremblay. 2013. Strong population differentiation of softshell clams (Mya arenaria) sampled across seven biogeographic marine ecoregions: possible selection and isolation by distance. _Marine Biology_. [doi:10.1007/s00227-012-2157-5](http://link.springer.com/article/10.1007%2Fs00227-012-2157-5). [Open Access Copy](http://carlystrasser.net/wp-content/uploads/2014/02/St-Onge-et-al-2013.pdf).
+P St-Onge, JM Sevigny, CA Strasser, and R Tremblay. 2013. Strong population differentiation of softshell clams (Mya arenaria) sampled across seven biogeographic marine ecoregions: possible selection and isolation by distance. _Marine Biology_. [doi:10.1007/s00227-012-2157-5](http://doi.org/10.1007/s00227-012-2157-5). [Open Access Copy](http://carlystrasser.net/wp-content/uploads/2014/02/St-Onge-et-al-2013.pdf).
 
-H Rajakaruna, CA Strasser and MA Lewis. 2012. Identifying non-invasible habitats for marine copepods using temperature-dependent R0. _Biological Invasions_ 14:633-647. [doi:10.1007/s10530-011-0104-x](http://dx.doi.org/10.1007/s10530-011-0104-x). [Open Access Copy](http://hdl.handle.net/10402/era.30201).
+H Rajakaruna, CA Strasser and MA Lewis. 2012. Identifying non-invasible habitats for marine copepods using temperature-dependent R0. _Biological Invasions_ 14:633-647. [doi:10.1007/s10530-011-0104-x](http://doi.org/10.1007/s10530-011-0104-x). [Open Access Copy](http://hdl.handle.net/10402/era.30201).
 
-CA Strasser, MA Lewis, and C DiBacco. 2011. A mechanistic model for understanding invasions: Using the environment as a predictor of population success. _Diversity and Distributions_ 17:1210-1224. [doi:j.1472-4642.2011.00791.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2011.00791.x/abstract). [Open Access Copy](http://hdl.handle.net/10402/era.30203).
+CA Strasser, MA Lewis, and C DiBacco. 2011. A mechanistic model for understanding invasions: Using the environment as a predictor of population success. _Diversity and Distributions_ 17:1210-1224. [doi:j.1472-4642.2011.00791.x](http://doi.org/j.1472-4642.2011.00791.x). [Open Access Copy](http://hdl.handle.net/10402/era.30203).
 
-CA Strasser, M Neubert, H Caswell, and C Hunter. 2012. Contributions of high and low quality patches to a metapopulation with stochastic disturbance.  _Theoretical Ecology_ 5:167-179. [doi:10.1007/s12080-010-0106-9](http://www.springerlink.com/content/d0q9341712l78316/). [Open Access Copy](https://darchive.mblwhoilibrary.org/handle/1912/5149).
+CA Strasser, M Neubert, H Caswell, and C Hunter. 2012. Contributions of high and low quality patches to a metapopulation with stochastic disturbance.  _Theoretical Ecology_ 5:167-179. [doi:10.1007/s12080-010-0106-9](https://doi.org/10.1007/s12080-010-0106-9). [Open Access Copy](https://darchive.mblwhoilibrary.org/handle/1912/5149).
 
-CA Strasser and PH Barber. 2009. Limited genetic variation and structure in softshell clams (_Mya arenaria_) across their native and introduced range.  _Conservation Genetics_ 10: 803-814. [doi:10.1007/s10592-008-9641-y](http://www.springerlink.com/content/ft82227g63710h41/). [Open Access Copy](https://darchive.mblwhoilibrary.org/handle/1912/2866).
+CA Strasser and PH Barber. 2009. Limited genetic variation and structure in softshell clams (_Mya arenaria_) across their native and introduced range.  _Conservation Genetics_ 10: 803-814. [doi:10.1007/s10592-008-9641-y](http://doi.org/10.1007/s10592-008-9641-y). [Open Access Copy](https://darchive.mblwhoilibrary.org/handle/1912/2866).
 
-CA Strasser, LS Mullineaux, and SR Thorrold. 2008. Temperature and salinity effects on elemental uptake in the shells of larval and juvenile softshell clams (_Mya arenaria_). _Marine Ecology Progress Series_ 370: 155-1639. [doi:10.3354/meps07658](http://www.int-res.com/abstracts/meps/v370/p155-169/) (Open Access)
+CA Strasser, LS Mullineaux, and SR Thorrold. 2008. Temperature and salinity effects on elemental uptake in the shells of larval and juvenile softshell clams (_Mya arenaria_). _Marine Ecology Progress Series_ 370: 155-1639. [doi:10.3354/meps07658](http://doi.org/10.3354/meps07658) (Open Access)
 
-CA Strasser, LS Mullineaux and BD Walther. 2008. Growth rate and age effects on _Mya arenaria_ shell chemistry: implications for biogeochemical studies. _Journal of Experimental Marine Biology and Ecology_ 355: 153-163. [doi:10.1016/j.jembe.2007.12.0](http://www.sciencedirect.com/science/article/pii/S0022098107005904). [Open Access Copy](https://darchive.mblwhoilibrary.org/handle/1912/2175).
+CA Strasser, LS Mullineaux and BD Walther. 2008. Growth rate and age effects on _Mya arenaria_ shell chemistry: implications for biogeochemical studies. _Journal of Experimental Marine Biology and Ecology_ 355: 153-163. [doi:10.1016/j.jembe.2007.12.0](http://doi.org/10.1016/j.jembe.2007.12.0). [Open Access Copy](https://darchive.mblwhoilibrary.org/handle/1912/2175).
 
 CA Strasser, SR Thorrold, VR Starczak, and LS Mullineaux.  2007.  Laser ablation ICP-MS analysis of larval shell in softshell clams (_Mya arenaria_) poses challenges for natural tag studies.  _Limnology & Oceanography: Methods_ 5: 241-249. [PDF](http://www.aslo.org/lomethods/free/2007/0241.pdf) (Open Access)
 
 ## Data
 
-J Kratz and C Strasser. 2015. Data from "Researcher Perspectives on Publication and Peer Review of Data". Merritt Repository. [doi:10.5060/D8RP4VC](http://dx.doi.org/10.5060/D8RP4VC).
+J Kratz and C Strasser. 2015. Data from "Researcher Perspectives on Publication and Peer Review of Data". Merritt Repository. [doi:10.5060/D8RP4VC](http://doi.org/10.5060/D8RP4VC).
 
-C Strasser, P Cruse, J Kunze, and S Abrams. 2013. Data from "DataUp: A tool to help researchers describe and share tabular data". figshare. [doi:10.6084/m9.figshare.884625](http://dx.doi.org/10.6084/m9.figshare.884625).
+C Strasser, P Cruse, J Kunze, and S Abrams. 2013. Data from "DataUp: A tool to help researchers describe and share tabular data". figshare. [doi:10.6084/m9.figshare.884625](http://doi.org/10.6084/m9.figshare.884625).
 
 CA Strasser and SE Hampton. 2012. Data from "The Fractured Lab Notebook: Undergraduates and Ecological Data Management Training in the United States." [Available from KNB Repository](http://knb.ecoinformatics.org/knb/metacat/knb.300.9/knb).
 
