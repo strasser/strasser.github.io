@@ -74,7 +74,7 @@ CA Strasser, LS Mullineaux and BD Walther. 2008. Growth rate and age effects on 
 
 CA Strasser, SR Thorrold, VR Starczak, and LS Mullineaux.  2007.  Laser ablation ICP-MS analysis of larval shell in softshell clams (_Mya arenaria_) poses challenges for natural tag studies.  _Limnology & Oceanography: Methods_ 5: 241-249. [PDF](http://www.aslo.org/lomethods/free/2007/0241.pdf) (Open Access)
 
-### Data
+## Data
 
 J Kratz and C Strasser. 2015. Data from "Researcher Perspectives on Publication and Peer Review of Data". Merritt Repository. [doi:10.5060/D8RP4VC](http://dx.doi.org/10.5060/D8RP4VC).
 
@@ -82,7 +82,7 @@ C Strasser, P Cruse, J Kunze, and S Abrams. 2013. Data from "DataUp: A tool to h
 
 CA Strasser and SE Hampton. 2012. Data from "The Fractured Lab Notebook: Undergraduates and Ecological Data Management Training in the United States." [Available from KNB Repository](http://knb.ecoinformatics.org/knb/metacat/knb.300.9/knb).
 
-### Grants
+## Grants
 
 C Strasser, P Cruse, and S Abrams. 2014. "Dash: Improving Community Repositories for Better Data Sharing." Award from the Alfred P. Sloan Foundation. Available at [escholarship.org/uc/item/2mw6v93b](http://escholarship.org/uc/item/2mw6v93b). Project website.
 
@@ -94,7 +94,7 @@ P Cruse, S Abrams, C Strasser, A Sallans, S Shreeves, and A Budden. 2012. "Data 
 
 P Cruse, C Strasser, W Michener, J Kunze, and D Vieglais. 2012. "DataUp: Further Development and Community Building." Supplemental grant to DataONE National Science Foundation OCI [Award No. 0830944](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0830944&HistoricalAwards=false). Available at  [http://escholarship.org/uc/item/1dt1v1pc](http://escholarship.org/uc/item/1dt1v1pc).
 
-### Selected Invited Presentations
+## Selected Invited Presentations
 
 Data and Partnerships at Fred Hutch. Invited presentation for NCI Symposium on Personal Control of Genomic Data for Research, September 2019. figshare. [doi:10.6084/m9.figshare.9914060.v1](http://dx.doi.org/10.6084/m9.figshare.9914060.v1).
 
