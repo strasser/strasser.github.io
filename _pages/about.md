@@ -25,7 +25,7 @@ src="//c.statcounter.com/11294611/0/a8d240cd/1/" alt="web
 stats"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-## Supporting data-driven research through partnership development.
+## About me
 
 Open science and data management advocate with experience in developing academic data science programs, driving research software development, and coordinating collaborative projects in research publishing and documentation. Skilled in forging partnerships, aligning activities with organizational goals, and connecting individuals to benefit science. 
 
