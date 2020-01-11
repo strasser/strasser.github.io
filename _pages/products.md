@@ -48,13 +48,13 @@ J Hartter, SJ Ryan, CA MacKenzie, JN Parker, and CA Strasser. 2013. Spatially Ex
 
 S Hampton, CA Strasser, J Tewksbury, W Gram, A Budden, A Batcheller, C Duke, and J Porter. 2013. Big data and the future of ecology. _Frontiers in Ecology and the Environment_ 11(3): 156-162. [doi:10.1890/120103](http://doi.org/10.1890/120103). [Open access copy](http://escholarship.org/uc/item/94f35801).
 
-S Hampton, C Strasser, and J Tewksbury. 2013. Growing Pains for Ecology in the Twenty-First Century. BioScience 63(2): 69-71. [doi:10.1525/bio.2013.63.2.2](http://doi.org/10.1525/bio.2013.63.2.2). [Open access copy](http://escholarship.org/uc/item/8kn6d080).
+S Hampton, C Strasser, and J Tewksbury. 2013. Growing Pains for Ecology in the Twenty-First Century. _BioScience_ 63(2): 69-71. [doi:10.1525/bio.2013.63.2.2](http://doi.org/10.1525/bio.2013.63.2.2) (open access).
 
 CA Strasser and SE Hampton. 2012. The fractured lab notebook: undergraduates and ecological data management training in the United States. _Ecosphere_ 3:art116. [doi:10.1890/ES12-00139.1](http://doi.org/10.1890/ES12-00139.1) (open access). 
 
-S Hampton, J Tewksbury and CA Strasser. 2012. Ecological data in the Information Age.  Guest Editorial in _Frontiers in Ecology and the Environment_ 10:59. [doi:10.1890/1540-9295-10.2.59](http://doi.org/10.1890/1540-9295-10.2.59). [Open access copy](http://www.esajournals.org/doi/full/10.1890/1540-9295-10.2.59).
+S Hampton, J Tewksbury and CA Strasser. 2012. Ecological data in the Information Age.  Guest Editorial in _Frontiers in Ecology and the Environment_ 10:59. [doi:10.1890/1540-9295-10.2.59](http://doi.org/10.1890/1540-9295-10.2.59) (open access).
 
-CA Strasser, R Cook, W Michener, and A Budden. 2012. Primer on Data Management: What You Always Wanted to Know. A DataONE publication, available via the California Digital Library. [doi:10.5060/D2251G48](http://doi.org/doi:10.5060/D2251G48) (open access)
+CA Strasser, R Cook, W Michener, and A Budden. 2012. Primer on Data Management: What You Always Wanted to Know. A DataONE publication. [doi:10.5060/D2251G48](http://doi.org/doi:10.5060/D2251G48) (open access).
 
 ## Selected invited presentations
 
@@ -80,27 +80,27 @@ P St-Onge, JM Sevigny, CA Strasser, and R Tremblay. 2013. Strong population diff
 
 H Rajakaruna, CA Strasser and MA Lewis. 2012. Identifying non-invasible habitats for marine copepods using temperature-dependent R0. _Biological Invasions_ 14:633-647. [doi:10.1007/s10530-011-0104-x](http://doi.org/10.1007/s10530-011-0104-x). [Open access copy](http://hdl.handle.net/10402/era.30201).
 
-CA Strasser, MA Lewis, and C DiBacco. 2011. A mechanistic model for understanding invasions: Using the environment as a predictor of population success. _Diversity and Distributions_ 17:1210-1224. [doi:j.1472-4642.2011.00791.x](http://doi.org/j.1472-4642.2011.00791.x). [Open access copy](http://hdl.handle.net/10402/era.30203).
+CA Strasser, MA Lewis, and C DiBacco. 2011. A mechanistic model for understanding invasions: Using the environment as a predictor of population success. _Diversity and Distributions_ 17:1210-1224. [doi:10.1111/j.1472-4642.2011.00791.x](http://doi.org/10.1111/j.1472-4642.2011.00791.x) (open access).
 
-CA Strasser, M Neubert, H Caswell, and C Hunter. 2012. Contributions of high and low quality patches to a metapopulation with stochastic disturbance.  _Theoretical Ecology_ 5:167-179. [doi:10.1007/s12080-010-0106-9](https://doi.org/10.1007/s12080-010-0106-9). [Open access copy](https://darchive.mblwhoilibrary.org/handle/1912/5149).
+CA Strasser, M Neubert, H Caswell, and C Hunter. 2012. Contributions of high and low quality patches to a metapopulation with stochastic disturbance.  _Theoretical Ecology_ 5:167-179. [doi:10.1007/s12080-010-0106-9](https://doi.org/10.1007/s12080-010-0106-9) (open access).
 
 CA Strasser and PH Barber. 2009. Limited genetic variation and structure in softshell clams (_Mya arenaria_) across their native and introduced range.  _Conservation Genetics_ 10: 803-814. [doi:10.1007/s10592-008-9641-y](http://doi.org/10.1007/s10592-008-9641-y). [Open access copy](https://darchive.mblwhoilibrary.org/handle/1912/2866).
 
-CA Strasser, LS Mullineaux, and SR Thorrold. 2008. Temperature and salinity effects on elemental uptake in the shells of larval and juvenile softshell clams (_Mya arenaria_). _Marine Ecology Progress Series_ 370: 155-1639. [doi:10.3354/meps07658](http://doi.org/10.3354/meps07658) (open access)
+CA Strasser, LS Mullineaux, and SR Thorrold. 2008. Temperature and salinity effects on elemental uptake in the shells of larval and juvenile softshell clams (_Mya arenaria_). _Marine Ecology Progress Series_ 370: 155-1639. [doi:10.3354/meps07658](http://doi.org/10.3354/meps07658) (open access).
 
-CA Strasser, LS Mullineaux and BD Walther. 2008. Growth rate and age effects on _Mya arenaria_ shell chemistry: implications for biogeochemical studies. _Journal of Experimental Marine Biology and Ecology_ 355: 153-163. [doi:10.1016/j.jembe.2007.12.0](http://doi.org/10.1016/j.jembe.2007.12.0). [Open access copy](https://darchive.mblwhoilibrary.org/handle/1912/2175).
+CA Strasser, LS Mullineaux and BD Walther. 2008. Growth rate and age effects on _Mya arenaria_ shell chemistry: implications for biogeochemical studies. _Journal of Experimental Marine Biology and Ecology_ 355: 153-163. [doi:10.1016/j.jembe.2007.12.022](https://doi.org/10.1016/j.jembe.2007.12.022). [Open access copy](https://darchive.mblwhoilibrary.org/handle/1912/2175).
 
-CA Strasser, SR Thorrold, VR Starczak, and LS Mullineaux.  2007.  Laser ablation ICP-MS analysis of larval shell in softshell clams (_Mya arenaria_) poses challenges for natural tag studies.  _Limnology & Oceanography: Methods_ 5: 241-249. [doi:10.4319/lom.2007.5.241](http://doi.org/10.4319/lom.2007.5.241) (open access)
+CA Strasser, SR Thorrold, VR Starczak, and LS Mullineaux.  2007.  Laser ablation ICP-MS analysis of larval shell in softshell clams (_Mya arenaria_) poses challenges for natural tag studies.  _Limnology & Oceanography: Methods_ 5: 241-249. [doi:10.4319/lom.2007.5.241](http://doi.org/10.4319/lom.2007.5.241) (open access).
 
 ## Grants
 
-C Strasser, P Cruse, and S Abrams. 2014. "Dash: Improving Community Repositories for Better Data Sharing." Award from the Alfred P. Sloan Foundation. Available at [escholarship.org/uc/item/2mw6v93b](http://escholarship.org/uc/item/2mw6v93b). Project website.
+C Strasser, P Cruse, and S Abrams. 2014. "Dash: Improving Community Repositories for Better Data Sharing." Award from the Alfred P. Sloan Foundation. Available at [escholarship.org/uc/item/2mw6v93b](http://escholarship.org/uc/item/2mw6v93b). 
 
-J Lin, P Cruse, M Fenner, and C Strasser. 2014. "Making Data Count: Developing a Data Metrics Pilot." [National Science Foundation](http://nsf.gov/) EAGER [ACI Award No. 1448821](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1448821&HistoricalAwards=false). Available at [escholarship.org/uc/item/9kf081vf](http://escholarship.org/uc/item/9kf081vf). 
+J Lin, P Cruse, M Fenner, and C Strasser. 2014. "Making Data Count: Developing a Data Metrics Pilot." National Science Foundation EAGER [ACI Award No. 1448821](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1448821&HistoricalAwards=false). Available at [escholarship.org/uc/item/9kf081vf](http://escholarship.org/uc/item/9kf081vf). 
 
-P Cruse and C Strasser. 2012. "Improving Data Stewardship with the DMPTool: Empowering Libraries to Seize Data Management Education." [Institute of Museum and Library Services](http://imls.gov/) Grant No. LG-07-12-0505-12.
+P Cruse and C Strasser. 2012. "Improving Data Stewardship with the DMPTool: Empowering Libraries to Seize Data Management Education." Institute of Museum and Library Services Grant No. LG-07-12-0505-12.
 
-P Cruse, S Abrams, C Strasser, A Sallans, S Shreeves, and A Budden. 2012. "Data Management Planning Tool 2: Responding to the Community." Award from the [Alfred P. Sloan Foundation](http://sloan.org/).
+P Cruse, S Abrams, C Strasser, A Sallans, S Shreeves, and A Budden. 2012. "Data Management Planning Tool 2: Responding to the Community." Award from the Alfred P. Sloan Foundation.
 
 P Cruse, C Strasser, W Michener, J Kunze, and D Vieglais. 2012. "DataUp: Further Development and Community Building." Supplemental grant to DataONE National Science Foundation OCI [Award No. 0830944](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0830944&HistoricalAwards=false). Available at  [http://escholarship.org/uc/item/1dt1v1pc](http://escholarship.org/uc/item/1dt1v1pc).
 
