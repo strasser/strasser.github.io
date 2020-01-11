@@ -56,7 +56,7 @@ S Hampton, J Tewksbury and CA Strasser. 2012. Ecological data in the Information
 
 CA Strasser, R Cook, W Michener, and A Budden. 2012. Primer on Data Management: What You Always Wanted to Know. A DataONE publication. [doi:10.5060/D2251G48](http://doi.org/doi:10.5060/D2251G48) (open access).
 
-## Selected invited presentations
+## Select invited presentations
 
 Data and Partnerships at Fred Hutch. Invited presentation for NCI Symposium on Personal Control of Genomic Data for Research, September 2019. figshare. [doi:10.6084/m9.figshare.9914060.v1](http://doi.org/10.6084/m9.figshare.9914060.v1).
 
