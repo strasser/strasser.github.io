@@ -25,16 +25,16 @@ _Director of Strategic Development_. Established and managed the development of 
 
 ### 2015 - 2017: [Gordon & Betty Moore Foundation](http://www.moore.org)
 
-_Program Officer_, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Developed, implemented, and managed the Data-Driven Discovery Initiative alongside the Program Director. Managed grants in the Initiative’s portfolio; planned and oversaw grantee meetings, col- laborations and partnerships; and tracked trends, synthesizing knowledge relevant to the Initiative. Separate from the Initiative, sourced and developed grants related to improving how science is con- ducted, including projects focused on data management, scholarly communication, and synthesis studies. Led the Foundation in establishing an [Open Access policy](https://www.moore.org/article-detail?newsUrlName=moore-foundation-rolls-out-new-open-access-policy) for all grantees.
+_Program Officer_, [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery). Implemented and managed the $60M [Data-Driven Discovery Initiative](http://www.moore.org/programs/science/data-driven-discovery) alongside the Program Director. Administered grants in the Initiative's portfolio; planned and oversaw grantee meetings, collaborations, and partnerships; and tracked trends, synthesizing knowledge relevant to the Initiative. Separate from the Initiative, sourced and developed grants related to improving how science is conducted, including projects focused on data management, scholarly communication, and synthesis studies. Led establishment an [Open Access Policy](https://www.moore.org/article-detail?newsUrlName=moore-foundation-rolls-out-new-open-access-policy) for all grantees.
 
 
 ### 2011 - 2015: University of California's [California Digital Library](http://cdlib.org)
 
-_Research Data Specialist_. Provided expert guidance and consultation on data stewardship to UC researchers; led workshops and gave seminars on the value of data management for scientists; promoted open science and open data within the UC and beyond. [Dash](http://cdluc3.github.io/dash) data curation platform; [DMPTool](http://dmptool.org) project team member. Supervisor, CLIR/DLF Postdoctoral Fellow in Data Curation. Briefly seconded by DataCite [DataCite](http://datacite.org) to serve as Manager of Strategic Partnerships.
+_Research Data Specialist_. Provided expert guidance and consultation on data stewardship to UC researchers; led workshops and gave seminars on the value of data management for scientists; promoted open science and open data within the UC and beyond. Dash (now [Dryad](http://datadryad.org)) data curation platform product manager; [DMPTool](http://dmptool.org) project team member. Supervisor, CLIR/DLF Postdoctoral Fellow in Data Curation. Briefly seconded by DataCite [DataCite](http://datacite.org) to serve as Manager of Strategic Partnerships.
 
 ### 2010 - 2011: [DataONE](http://dataone.org)
 
-_Postdoctoral Associate_ based at National Center for Ecological Analysis & Synthesis. Engaged the scientific and data management community in the Data Observation Network for Earth ([DataONE](http://dataone.org)), an NSF-funded cyber-infrastructure project to provide universal access to environmen- tal and ecological data. Conducted research related to data education, organized and led workshops, and participated in working groups.
+_Postdoctoral Associate_ based at National Center for Ecological Analysis & Synthesis. Engaged the scientific and data management community in the Data Observation Network for Earth ([DataONE](http://dataone.org)), an NSF-funded cyber-infrastructure project to provide universal access to environmental and ecological data. Conducted research related to data education, organized and led workshops, and participated in working groups.
 
 ### 2009 - 2010: University of Alberta & Dalhousie University
 
@@ -49,11 +49,11 @@ _Postdoctoral Investigator_. Developed demographic models of the endangered Nort
 
 ### PhD in Biological Oceanography
 
-[Massachusetts Institute of Technology](http://www.mit.edu/)/[Woods Hole Oceanographic Institution](http://www.whoi.edu) Joint Program in Biological Oceanography. Dissertation: Metapopulation dynamics of the softshell clam, _Mya arenaria_ ([pdf](/files/Strasser_thesis.pdf)). Primary Advisor: [Lauren Mullineaux](http://www.whoi.edu/profile.do?id=lmullineaux)
+[Massachusetts Institute of Technology](http://www.mit.edu/)/[Woods Hole Oceanographic Institution](http://www.whoi.edu) Joint Program in Biological Oceanography. 
 
 ### BA in Marine Science with Biology Emphasis
 
-[University of San Diego](http://www.sandiego.edu/). Thesis: Population Structure of the Antarctic Krill, _Euphausia superba_. Advisor: [Ron Kaufmann](http://home.sandiego.edu/~kaufmann/).
+[University of San Diego](http://www.sandiego.edu/). Graduated _Summa Cum Laude_.
 
   
 ## Professional activities & service
