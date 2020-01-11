@@ -62,7 +62,7 @@ _Postdoctoral Investigator_. Developed demographic models of the endangered Nort
 
 **Advisory Board**, [Make Data Count project](https://makedatacount.org/) (2017 – present)
 
-Review Panelist for NSF Office of Cyber-Infrastructure (2011), NSF Research Traineeship Program (2014), & IMLS Laura Bush 21st Century Librarian Program; Alfred P. Sloan Founda- tion; Nature Scientific Data; Moore Foundation Inventor Fellowship Program; International Journal of Geo-Information; PLOS ONE; PLOS Biology; International Journal on Digital Libraries; Journal of eScience Librarianship; Ecology Letters, Conservation Biology; Nature Biotech; Conservation Genetics; Journal of Sea Research; Marine Ecology Progress Series; Journal of Marine Biology; Marine Biology Research; Aquatic Biology; Journal of Experimental Marine Biology and Ecology
+NSF Office of Cyber-Infrastructure (2011), NSF Research Traineeship Program (2014), IMLS Laura Bush 21st Century Librarian Program, Alfred P. Sloan Foundation, Nature Scientific Data, Moore Foundation Inventor Fellowship Program, PLOS ONE, PLOS Biology, International Journal on Digital Libraries, Journal of eScience Librarianship, Ecology Letters, Conservation Biology, Nature Biotech, Conservation Genetics, Journal of Sea Research, Marine Ecology Progress Series, Journal of Marine Biology, Marine Biology Research, Aquatic Biology, Journal of Experimental Marine Biology and Ecology
 
 ## Research outputs
 
