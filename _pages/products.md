@@ -102,5 +102,5 @@ P Cruse and C Strasser. 2012. "Improving Data Stewardship with the DMPTool: Empo
 
 P Cruse, S Abrams, C Strasser, A Sallans, S Shreeves, and A Budden. 2012. "Data Management Planning Tool 2: Responding to the Community." Award from the Alfred P. Sloan Foundation.
 
-P Cruse, C Strasser, W Michener, J Kunze, and D Vieglais. 2012. "DataUp: Further Development and Community Building." Supplemental grant to DataONE National Science Foundation OCI [Award No. 0830944](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0830944&HistoricalAwards=false). Available at  [http://escholarship.org/uc/item/1dt1v1pc](http://escholarship.org/uc/item/1dt1v1pc).
+P Cruse, C Strasser, W Michener, J Kunze, and D Vieglais. 2012. "DataUp: Further Development and Community Building." Supplemental grant to DataONE National Science Foundation OCI [Award No. 0830944](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0830944&HistoricalAwards=false). Available at  [escholarship.org/uc/item/1dt1v1pc](http://escholarship.org/uc/item/1dt1v1pc).
 
