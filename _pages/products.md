@@ -30,7 +30,7 @@ C Strasser. 2016. Preprints: The Bigger Picture. _The Winnower_ 3:e146955.56313.
 
 C Strasser and 22 others. 2016. Preprints for the life sciences. _Science_ 352: 6288. pp. 889-901. [doi:10.1126/science.aaf9133](http://doi.org/10.1126/science.aaf9133) (open access).
 
-C Strasser. 2015. Research Data Management: A Primer Publication of the National Information Standards Organization. Available for [download as PDF from www.niso.org](https://www.niso.org/publications/primer-research-data-management) (open access).
+C Strasser. 2015. Research Data Management: A Primer Publication of the National Information Standards Organization. [Download as PDF from www.niso.org](https://www.niso.org/publications/primer-research-data-management) (open access).
 
 J Kratz and C Strasser. 2015. Making data count. _Nature Scientific Data_ 2: 150039. [doi:10.1038/sdata.2015.39](http://doi.org/10.1038/sdata.2015.39) (open access).
 
@@ -42,7 +42,7 @@ J Kratz and C Strasser. 2014. Data publication consensus and controversies. _F10
 
 C Strasser, J Kunze, S Abrams, and P Cruse. 2014. DataUp: A tool to help researchers describe and share tabular data. _F1000Research_ 3:6. [doi:10.12688/f1000research.3-6.v2](http://doi.org/10.12688/f1000research.3-6.v2) (open access).
 
-L Krier and C Strasser. 2014. _Data Management for Libraries: A LITA Guide_. 112 pages. [available from alatore.ala.org](http://www.alastore.ala.org/detail.aspx?ID=10737)
+L Krier and C Strasser. 2014. _Data Management for Libraries: A LITA Guide_. 112 pages. [Available from alatore.ala.org](http://www.alastore.ala.org/detail.aspx?ID=10737)
 
 J Hartter, SJ Ryan, CA MacKenzie, JN Parker, and CA Strasser. 2013. Spatially Explicit Data: Stewardship and Ethical Challenges in Science. _PLOS Biology_ 11(9):e1001634. [doi:10.1371/journal.pbio.1001634](http://doi.org/10.1371/journal.pbio.1001634) (open access).
 
