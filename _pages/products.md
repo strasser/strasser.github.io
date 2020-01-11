@@ -66,14 +66,6 @@ Funders and Publishers as Agents of Change. Keynote for November 2016 Crossref #
 
 _More presentations available from [slideshare.net/carlystrasser](http://slideshare.net/carlystrasser)._
  
-## Professional activities & service
-
-**Board Member**, [Dryad Digital Repository](https://datadryad.org/) (2017 - present)
-
-**Advisory Board**, [Make Data Count project](http://www.makedatacount.org) (2017 - present)
-
-**Reviewer**, NSF Office of Cyber-Infrastructure (2011), NSF Research Traineeship Program (2014), IMLS Laura Bush 21st Century Librarian Program, Alfred P. Sloan Foundation, Nature Scientific Data, Moore Foundation Inventor Fellowship Program, PLOS ONE, PLOS Biology, International Journal on Digital Libraries; Journal of eScience Librarianship, Ecology Letters, Conservation Biology, Nature Biotech, Conservation Genetics, Journal of Sea Research, Marine Ecology Progress Series, Journal of Marine Biology, Marine Biology Research, Aquatic Biology, Journal of Experimental Marine Biology and Ecology
-
 ## Ecological research publications
 
 P St-Onge, JM Sevigny, CA Strasser, and R Tremblay. 2013. Strong population differentiation of softshell clams (Mya arenaria) sampled across seven biogeographic marine ecoregions: possible selection and isolation by distance. _Marine Biology_. [doi:10.1007/s00227-012-2157](http://doi.org/10.1007/s00227-012-2157-5). [Download open access copy](https://github.com/strasser/strasser.github.io/raw/master/files/St-Onge-2014.pdf).
