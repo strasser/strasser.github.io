@@ -26,7 +26,7 @@ J Chodacki, P Cruse, J Lin, C Neylon, D Pattinson, & C Strasser. 2018. _Supporti
 
 C Strasser and E Khare. 2017. Estimated effects of implementing an open access policy for grantees at a private foundation. _PeerJ_ 5:e3853. [doi:10.7717/peerj.3853](https://doi.org/10.7717/peerj.3853) (open access). 
 
-C Strasser. 2016. Preprints: The Bigger Picture. _The Winnower_ 3:e146955.56313. [doi:10.15200/winn.146955.56313](https://thewinnower.com/papers/5010-preprints-the-bigger-picture) (open access). Also available as [version for comment on Medium](https://medium.com/@carlystrasser/preprints-the-bigger-picture-a3108193b57d#.hfbd5ydgb).
+C Strasser. 2016. Preprints: The Bigger Picture. _The Winnower_ 3:e146955.56313. [doi:10.15200/winn.146955.56313](https://thewinnower.com/papers/5010-preprints-the-bigger-picture) (open access). 
 
 C Strasser and 22 others. 2016. Preprints for the life sciences. _Science_ 352: 6288. pp. 889-901. [doi:10.1126/science.aaf9133](http://doi.org/10.1126/science.aaf9133) (open access).
 
@@ -46,13 +46,13 @@ L Krier and C Strasser. 2014. _Data Management for Libraries: A LITA Guide_. 112
 
 J Hartter, SJ Ryan, CA MacKenzie, JN Parker, and CA Strasser. 2013. Spatially Explicit Data: Stewardship and Ethical Challenges in Science. _PLOS Biology_ 11(9):e1001634. [doi:10.1371/journal.pbio.1001634](http://doi.org/10.1371/journal.pbio.1001634) (open access).
 
-S Hampton, CA Strasser, J Tewksbury, W Gram, A Budden, A Batcheller, C Duke, and J Porter. 2013. Big data and the future of ecology. _Frontiers in Ecology and the Environment_ 11(3): 156-162. [doi:10.1890/120103](http://doi.org/10.1890/120103). [open access Copy](http://escholarship.org/uc/item/94f35801).
+S Hampton, CA Strasser, J Tewksbury, W Gram, A Budden, A Batcheller, C Duke, and J Porter. 2013. Big data and the future of ecology. _Frontiers in Ecology and the Environment_ 11(3): 156-162. [doi:10.1890/120103](http://doi.org/10.1890/120103). [Open access copy](http://escholarship.org/uc/item/94f35801).
 
-S Hampton, C Strasser, and J Tewksbury. 2013. Growing Pains for Ecology in the Twenty-First Century. BioScience 63(2): 69-71. [doi:10.1525/bio.2013.63.2.2](http://doi.org/10.1525/bio.2013.63.2.2). [open access Copy](http://escholarship.org/uc/item/8kn6d080).
+S Hampton, C Strasser, and J Tewksbury. 2013. Growing Pains for Ecology in the Twenty-First Century. BioScience 63(2): 69-71. [doi:10.1525/bio.2013.63.2.2](http://doi.org/10.1525/bio.2013.63.2.2). [Open access copy](http://escholarship.org/uc/item/8kn6d080).
 
-CA Strasser and SE Hampton. 2012. The fractured lab notebook: undergraduates and ecological data management training in the United States. _Ecosphere_ 3:art116. [doi:10.1890/ES12-00139.1](http://doi.org/10.1890/ES12-00139.1) (open access). [Data in KNB](http://knb.ecoinformatics.org/knb/metacat/knb.300.9/knb).
+CA Strasser and SE Hampton. 2012. The fractured lab notebook: undergraduates and ecological data management training in the United States. _Ecosphere_ 3:art116. [doi:10.1890/ES12-00139.1](http://doi.org/10.1890/ES12-00139.1) (open access). 
 
-S Hampton, J Tewksbury and CA Strasser. 2012. Ecological data in the Information Age.  Guest Editorial in _Frontiers in Ecology and the Environment_ 10:59. [doi:10.1890/1540-9295-10.2.59](http://doi.org/10.1890/1540-9295-10.2.59). [open access Copy](http://www.esajournals.org/doi/full/10.1890/1540-9295-10.2.59).
+S Hampton, J Tewksbury and CA Strasser. 2012. Ecological data in the Information Age.  Guest Editorial in _Frontiers in Ecology and the Environment_ 10:59. [doi:10.1890/1540-9295-10.2.59](http://doi.org/10.1890/1540-9295-10.2.59). [Open access copy](http://www.esajournals.org/doi/full/10.1890/1540-9295-10.2.59).
 
 CA Strasser, R Cook, W Michener, and A Budden. 2012. Primer on Data Management: What You Always Wanted to Know. A DataONE publication, available via the California Digital Library. [doi:10.5060/D2251G48](http://doi.org/doi:10.5060/D2251G48) (open access)
 
@@ -64,7 +64,7 @@ Increasing the Yield of Research Through Openness. Keynote at Crops In Silico Me
 
 Funders and Publishers as Agents of Change. Keynote for November 2016 Crossref #LIVE16 Meeting. figshare. [doi:10.6084/m9.figshare.4193511.v1](https://doi.org/10.6084/m9.figshare.4193511.v1).
 
-Other (older) presentations available from [slideshare.net/carlystrasser](http://slideshare.net/carlystrasser).
+_More presentations available from [slideshare.net/carlystrasser](http://slideshare.net/carlystrasser)._
  
 ## Professional activities & service
 
@@ -76,9 +76,9 @@ Other (older) presentations available from [slideshare.net/carlystrasser](http:/
 
 ## Ecological research publications
 
-P St-Onge, JM Sevigny, CA Strasser, and R Tremblay. 2013. Strong population differentiation of softshell clams (Mya arenaria) sampled across seven biogeographic marine ecoregions: possible selection and isolation by distance. _Marine Biology_. [doi:10.1007/s00227-012-2157](http://doi.org/10.1007/s00227-012-2157-5). [download open access copy](https://github.com/strasser/strasser.github.io/raw/master/files/St-Onge-2014.pdf).
+P St-Onge, JM Sevigny, CA Strasser, and R Tremblay. 2013. Strong population differentiation of softshell clams (Mya arenaria) sampled across seven biogeographic marine ecoregions: possible selection and isolation by distance. _Marine Biology_. [doi:10.1007/s00227-012-2157](http://doi.org/10.1007/s00227-012-2157-5). [Download open access copy](https://github.com/strasser/strasser.github.io/raw/master/files/St-Onge-2014.pdf).
 
-H Rajakaruna, CA Strasser and MA Lewis. 2012. Identifying non-invasible habitats for marine copepods using temperature-dependent R0. _Biological Invasions_ 14:633-647. [doi:10.1007/s10530-011-0104-x](http://doi.org/10.1007/s10530-011-0104-x). [open access copy](http://hdl.handle.net/10402/era.30201).
+H Rajakaruna, CA Strasser and MA Lewis. 2012. Identifying non-invasible habitats for marine copepods using temperature-dependent R0. _Biological Invasions_ 14:633-647. [doi:10.1007/s10530-011-0104-x](http://doi.org/10.1007/s10530-011-0104-x). [Open access copy](http://hdl.handle.net/10402/era.30201).
 
 CA Strasser, MA Lewis, and C DiBacco. 2011. A mechanistic model for understanding invasions: Using the environment as a predictor of population success. _Diversity and Distributions_ 17:1210-1224. [doi:j.1472-4642.2011.00791.x](http://doi.org/j.1472-4642.2011.00791.x). [Open access copy](http://hdl.handle.net/10402/era.30203).
 
