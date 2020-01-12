@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 -->
 
-### Data & research communication publications
+## Data & research communication publications
 
 L Teytelman, W Gunn and J Kamens (authorship limited to 3). 2019. The EPA’s proposed ‘transparency rule’ will harm health, safety, and the environment. _STAT_, December 9 2019. [www.statnews.com/2019/12/09/epa-transparency-rule-bad-for-science-health-safety-environment](https://www.statnews.com/2019/12/09/epa-transparency-rule-bad-for-science-health-safety-environment/).
 
