@@ -16,12 +16,12 @@ author_profile: true
 {% endfor %}
 -->
 
-I previously wrote for the University of California Curation Center (UC3) blog, [Data Pub](https://datapub.cdlib.org). All of my posts can be found [here](https://datapub.cdlib.org/?s=Carly+Strasser). A selection of my most read posts (all external links): 
+From 2011-2015, I ran the University of California Curation Center (UC3) blog, [Data Pub](https://datapub.cdlib.org). All of my posts can be found [here](https://datapub.cdlib.org/?s=Carly+Strasser). A selection of my most read posts (all external links): 
 
 
 [Researchers! Make your previous work OA](https://datapub.cdlib.org/2012/11/06/researchers-make-your-previous-work-oa/)
 
-[NSF now allows data in biosketch accomplishments](https://datapub.cdlib.org/2013/01/10/nsf-now-allows-data-in-biosketch-accomplishments/)
+[NSF now allows data in biosketch accomplishments](https://uc3.cdlib.org/2012/01/10/nsf-now-allows-data-in-biosketch-accomplishments/)
 
 [Closed data... excuses, excuses](https://datapub.cdlib.org/2013/04/24/closed-data-excuses-excuses/)
 
