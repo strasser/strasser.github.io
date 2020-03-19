@@ -17,7 +17,7 @@ redirect_from:
 ### July 2018 - Current: [Fred Hutchinson Cancer Research Center](http://fredhutch.org)
 
 _Director of Alliances and Data Strategy_. As a core leader of the Hutch Data Commonwealth ([HDC](https://www.fredhutch.org/en/research/institutes-networks-ircs/hdc.html)), established and led strategic initiatives supporting data-intensive research at Fred Hutch through internal and external partnerships, community building, and infrastructure development. Key accomplishments:
-- Created a core leadership team to define the vision and mission of HDC in supporting data-intensive research through partnerships, engineering, and infrastructure
+- Member of the core leadership team that defined the vision and mission of HDC in supporting data-intensive research through partnerships, engineering, and infrastructure
 - Developed and implemented a strategic growth plan for HDC, including establishment of new teams and roles; recruited new staff to engage researchers to understand their needs and facilitate better support for data-intensive research 
 - Overhauled program operations and communications to ensure effective information-sharing, staff engagement, and program efficacy 
 - Created and led programmatics for the newly established HDC Accelerator Fund, providing financial support for Hutch researchers through partnerships with external groups including Sage Bionetworks, Google, Pattern Computing, and Seattle Children’s Research Institute
