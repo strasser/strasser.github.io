@@ -14,7 +14,7 @@ redirect_from:
 
 ## Professional & research experience 
 
-### May 2020 - Present: [Chan-Zuckerberg Initiative](https://chanzuckerberg.com/)
+### May 2020 - Present: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 
 _Open Science Program Manager_.
 
