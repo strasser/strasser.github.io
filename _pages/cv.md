@@ -14,21 +14,18 @@ redirect_from:
 
 ## Professional & research experience 
 
-### July 2018 - Current: [Fred Hutchinson Cancer Research Center](http://fredhutch.org)
+### May 2020 - Present: [Chan-Zuckerberg Initiative](https://chanzuckerberg.com/)
+
+_Open Science Program Manager_.
+
+### July 2018 - April 2020: [Fred Hutchinson Cancer Research Center](http://fredhutch.org)
 
 _Director of Alliances and Data Strategy_. As a core leader of the Hutch Data Commonwealth ([HDC](https://www.fredhutch.org/en/research/institutes-networks-ircs/hdc.html)), established and led strategic initiatives supporting data-intensive research at Fred Hutch through internal and external partnerships, community building, and infrastructure development. Key accomplishments:
 - Member of the core leadership team that defined the vision and mission of HDC in supporting data-intensive research through partnerships, engineering, and infrastructure
 - Developed and implemented a strategic growth plan for HDC, including establishment of new teams and roles; recruited new staff to engage researchers to understand their needs and facilitate better support for data-intensive research 
 - Overhauled program operations and communications to ensure effective information-sharing, staff engagement, and program efficacy 
 - Created and led programmatics for the newly established HDC Accelerator Fund, providing financial support for Hutch researchers through partnerships with external groups including Sage Bionetworks, Google, Pattern Computing, and Seattle Children’s Research Institute
-- Designed and launched the [Cascadia Data Alliance](http://cascadiadataalliance.org), a regional health data partnership funded by Microsoft; contribute to ongoing strategy and vision, including partnership with Seattle Translational Tumor Research to streamline access to biospecimens. Co-led collaborations with BC Cancer, UBC, and OHSU focused on sharing biomedical research data 
-- Established the Bioinformatics and Data Science Cooperative ([The Coop](\href{http://thecoop.fredhutch.org)) to create a community and resources for researchers to best conduct data-intensive research
-  - To date, we have more than 300 active members, have conducted more than 30 events,  and have trained more than 300 researchers
-  - Absorbed and grew [fredhutch.io](http://fredhutch.io), Hutch's computational training program, including hiring new personnel to further advance the mission of The Coop through training 
-  - Frequently collaborate with external (UW, Carpentries, OHSU) and internal (Scientific Computing, Translational Data Science Integrated Research Center, FH Bioinformatics Interest Group, Biostats, Computational Biology program) groups to align efforts around support for data-intensive research
-- Established a fellowship program with Cambia Grove that partnered two bioinformatics fellows with the Fred Hutch Data Visualization Initiative to enable programmatic access to public datasets 
-- Led discussions about ORCID integrations and facilitated conversations with companies that provide software to enable researcher output tracking, including publications, at the Hutch. Facilitated open science discussions with the library
-- Advised the Data Science Coordination Committee, as a member, to organize numerous group efforts supporting data science
+- Established the Bioinformatics and Data Science Cooperative ([The Coop](\href{http://thecoop.fredhutch.org)) to create a community and resources for researchers to best conduct data-intensive research. Absorbed and grew [fredhutch.io](http://fredhutch.io), Hutch's computational training program, including hiring new personnel to further advance the mission of The Coop through training 
 
 ### December 2017 - June 2018: [Collaborative Knowledge Foundation (Coko)](http://coko.foundation)
 
