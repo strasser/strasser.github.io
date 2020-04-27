@@ -28,6 +28,8 @@ stats"></a></div></noscript>
 
 Open science and data management leader with strengths in developing academic data science programs, driving research software development, and coordinating collaborative projects in data-intensive research. Skilled in forging partnerships, aligning activities with strategic organizational goals, and connecting individuals to facilitate the progress of science.
 
+**Starting May 4** I will be joining the [Chan Zuckerberg Initiative's Science Program](https://chanzuckerberg.com/science/) as Program Manager for Open Science!
+
 **Previously** I was the Director of Alliances and Data Strategy at the [Fred Hutchinson Cancer Research Center](http://www.fredhutch.org/en.html). I led a team to strategically support data-intensive research at Fred Hutch through internal and external partnerships, community building, infrastructure development, and new initiatives designed to facilitate data science. I was also a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. 
 
 I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program.
