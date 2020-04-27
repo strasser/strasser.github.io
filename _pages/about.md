@@ -32,7 +32,7 @@ Open science and data management leader with strengths in developing academic da
 
 **Previously** I was the Director of Alliances and Data Strategy at the [Fred Hutchinson Cancer Research Center](http://www.fredhutch.org/en.html). I led a team to strategically support data-intensive research at Fred Hutch through internal and external partnerships, community building, infrastructure development, and new initiatives designed to facilitate data science. I was also a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. 
 
-I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program.
+I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program. My full CV is available [here](https://strasser.github.io/files/cv.pdf).
 
 ### Looking for blog posts? 
 Check out [strasser.github.io/blog-posts](https://strasser.github.io/blog-posts/)
