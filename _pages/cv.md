@@ -16,16 +16,12 @@ redirect_from:
 
 ### May 2020 - Present: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 
-_Open Science Program Manager_.
+_Open Science Program Manager_. Drive the execution of open science initiatives in the scientific communities CZI serves. Manage the development and operations of grant programs to support open science; coordinate closely with the rest of the CZI Science team and the external community.
 
 ### July 2018 - April 2020: [Fred Hutchinson Cancer Research Center](http://fredhutch.org)
 
-_Director of Alliances and Data Strategy_. As a core leader of the Hutch Data Commonwealth ([HDC](https://www.fredhutch.org/en/research/institutes-networks-ircs/hdc.html)), established and led strategic initiatives supporting data-intensive research at Fred Hutch through internal and external partnerships, community building, and infrastructure development. Key accomplishments:
-- Member of the core leadership team that defined the vision and mission of HDC in supporting data-intensive research through partnerships, engineering, and infrastructure
-- Developed and implemented a strategic growth plan for HDC, including establishment of new teams and roles; recruited new staff to engage researchers to understand their needs and facilitate better support for data-intensive research 
-- Overhauled program operations and communications to ensure effective information-sharing, staff engagement, and program efficacy 
-- Created and led programmatics for the newly established HDC Accelerator Fund, providing financial support for Hutch researchers through partnerships with external groups including Sage Bionetworks, Google, Pattern Computing, and Seattle Children’s Research Institute
-- Established the Bioinformatics and Data Science Cooperative ([The Coop](\href{http://thecoop.fredhutch.org)) to create a community and resources for researchers to best conduct data-intensive research. Absorbed and grew [fredhutch.io](http://fredhutch.io), Hutch's computational training program, including hiring new personnel to further advance the mission of The Coop through training 
+_Director of Alliances and Data Strategy_. As a core leader of the Hutch Data Commonwealth (HDC), established and led strategic initiatives supporting data-intensive research at Fred Hutch through internal and external partnerships, community building, and infrastructure development. Contributed to strategic growth plan for HDC, including establishing new teams and roles, and recruiting new staff to engage researchers to understand their needs. Overhauled program operations and communications to ensure effective information-sharing, staff engagement, and program efficacy. Established the Bioinformatics and Data Science Cooperative ([The Coop](https://strasser.github.io/href%7Bhttp://thecoop.fredhutch.org)) to create a community and resources for researchers to best conduct data-intensive research.
+
 
 ### December 2017 - June 2018: [Collaborative Knowledge Foundation (Coko)](http://coko.foundation)
 
