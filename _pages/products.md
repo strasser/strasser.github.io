@@ -20,7 +20,7 @@ author_profile: true
 
 L Teytelman, W Gunn and J Kamens (authorship limited to 3). 2019. The EPA’s proposed ‘transparency rule’ will harm health, safety, and the environment. _STAT_, December 9 2019. [www.statnews.com/2019/12/09/epa-transparency-rule-bad-for-science-health-safety-environment](https://www.statnews.com/2019/12/09/epa-transparency-rule-bad-for-science-health-safety-environment/).
 
-S Alexander, K Jones, N Bennett, A Budden, M Cox, M Crosas, E Game, J Geary, R Hardy, J Johnson, S Karcher, N Motzer, J Pittman, H Randell, J Silva, P Pinto da Silva, C Strasser, C Strawhacker, A Stuhl and N Weber. 2019. Qualitative data sharing and synthesis for sustainability science. _Nature Sustainability_. [doi:10.1038/s41893-019-0434-8](https://doi.org/10.1038/s41893-019-0434-8). 
+S Alexander, K Jones, N Bennett, A Budden, M Cox, M Crosas, E Game, J Geary, R Hardy, J Johnson, S Karcher, N Motzer, J Pittman, H Randell, J Silva, P Pinto da Silva, C Strasser, C Strawhacker, A Stuhl and N Weber. 2019. Qualitative data sharing and synthesis for sustainability science. _Nature Sustainability_. [doi:10.1038/s41893-019-0434-8](https://doi.org/10.1038/s41893-019-0434-8). [Free copy](https://github.com/strasser/strasser.github.io/raw/master/files/Alexander-et-al.pdf).
 
 J Chodacki, P Cruse, J Lin, C Neylon, D Pattinson, & C Strasser. 2018. _Supporting Research Communications: a guide_. [www.supporters.guide](https://www.supporters.guide/) (free book download).
 
