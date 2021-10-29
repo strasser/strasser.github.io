@@ -24,7 +24,7 @@ L Teytelman, W Gunn and J Kamens (authorship limited to 3). 2019. The EPA’s pr
 
 S Alexander, K Jones, N Bennett, A Budden, M Cox, M Crosas, E Game, J Geary, R Hardy, J Johnson, S Karcher, N Motzer, J Pittman, H Randell, J Silva, P Pinto da Silva, C Strasser, C Strawhacker, A Stuhl and N Weber. 2019. Qualitative data sharing and synthesis for sustainability science. _Nature Sustainability_. [doi:10.1038/s41893-019-0434-8](https://doi.org/10.1038/s41893-019-0434-8). [Free copy](https://github.com/strasser/strasser.github.io/raw/master/files/Alexander-et-al.pdf).
 
-J Chodacki, P Cruse, J Lin, C Neylon, D Pattinson, & C Strasser. 2018. _Supporting Research Communications: a guide_. [www.supporters.guide](https://www.supporters.guide/) (free book download).
+J Chodacki, P Cruse, J Lin, C Neylon, D Pattinson, & C Strasser. 2018. _Supporting Research Communications: a guide_. Book available for download on Zenodo. [doi:10.5281/zenodo.3524662](http://doi.org/10.5281/zenodo.3524662) (open access).
 
 C Strasser and E Khare. 2017. Estimated effects of implementing an open access policy for grantees at a private foundation. _PeerJ_ 5:e3853. [doi:10.7717/peerj.3853](https://doi.org/10.7717/peerj.3853) (open access). 
 
@@ -60,13 +60,13 @@ CA Strasser, R Cook, W Michener, and A Budden. 2012. Primer on Data Management: 
 
 ## Select invited presentations
 
+Effective Data Management and its Role in Open Research. Invited presentation for the NISO Hot Topics Virtual Webinar on Effective Data Management, September 2021. Zenodo. [doi:10.5281/zenodo.5538979](http://doi.org/10.5281/zenodo.5538979).
+
+Open Data: An Overview. Invited presentation for the British Ecological Society Festival of Ecology, December 2020. Zenodo. [doi:10.5281/zenodo.4321133](http://doi.org/10.5281/zenodo.4321133).
+
 Data and Partnerships at Fred Hutch. Invited presentation for NCI Symposium on Personal Control of Genomic Data for Research, September 2019. figshare. [doi:10.6084/m9.figshare.9914060.v1](http://doi.org/10.6084/m9.figshare.9914060.v1).
 
-Increasing the Yield of Research Through Openness. Keynote at Crops In Silico Meeting, August 2018. figshare. [doi:10.6084/m9.figshare.6890702.v2](https://doi.org/10.6084/m9.figshare.6890702.v2).
-
-Funders and Publishers as Agents of Change. Keynote for November 2016 Crossref #LIVE16 Meeting. figshare. [doi:10.6084/m9.figshare.4193511.v1](https://doi.org/10.6084/m9.figshare.4193511.v1).
-
-_More presentations available from [slideshare.net/carlystrasser](http://slideshare.net/carlystrasser)._
+_Older presentations available from [slideshare.net/carlystrasser](http://slideshare.net/carlystrasser)._
  
 ## Ecological research publications
 
