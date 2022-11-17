@@ -18,6 +18,8 @@ author_profile: true
 
 ## Data & research communication publications
 
+C Strasser, K Hertweck, J Greenberg, D Taraborelli, and E Vu. 2022. Ten simple rules for funding scientific open source software. _PLOS Computational Biology_ 18(11): [doi:10.1371/journal.pcbi.1010627](https://doi.org/10.1371/journal.pcbi.1010627).
+
 K Hertweck and C Strasser. 2020. From novice to expert: Supporting all levels of computational expertise in reproducible research methods. PEARC '20: Practice and Experience in Advanced Research Computing. [doi:10.1145/3311790.3396655](https://doi.org/10.1145/3311790.3396655).
 
 L Teytelman, W Gunn and J Kamens (authorship limited to 3). 2019. The EPA’s proposed ‘transparency rule’ will harm health, safety, and the environment. _STAT_, December 9 2019. [www.statnews.com/2019/12/09/epa-transparency-rule-bad-for-science-health-safety-environment](https://www.statnews.com/2019/12/09/epa-transparency-rule-bad-for-science-health-safety-environment/).
