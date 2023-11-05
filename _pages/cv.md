@@ -52,9 +52,9 @@ _Postdoctoral Investigator_. Developed demographic models of the endangered Nort
   
 ## Professional activities & service
 
-**Steering Committee**, [NIST Research Data Framework](https://www.nist.gov/programs-projects/research-data-framework-rdaf) (2021 - present)
+**Advisory Board**, [Make Data Count project](https://makedatacount.org/) (2017 – present); [Gates Open Research](https://gatesopenresearch.org/) (2021 - present) 
 
-**Advisory Board**, [Gates Open Research](https://gatesopenresearch.org/) (2021 - present); [Make Data Count project](https://makedatacount.org/) (2017 – present)
+**Steering Committee**, [NIST Research Data Framework](https://www.nist.gov/programs-projects/research-data-framework-rdaf) (2021 - 2022)
 
 **Board Member**, [Dryad Digital Repository](http://datadryad.org) (2017 – 2020)
 
