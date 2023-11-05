@@ -16,7 +16,7 @@ redirect_from:
 
 ### May 2020 - Present: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 
-_Open Science Program Manager_. Drive the execution of open science initiatives for the [Open Science program at CZI](https://chanzuckerberg.com/science/programs-resources/open-science/). Develop strategies for promoting and enabling open science through funding and advocacy. Manage the development and operations of grant programs to support open science, including designing and executing requests for proposals, driving targeted grants, and tracking and reporting grantee progress. Run workshops and undertake landscaping activities to inform future grant making. Coordinate open science activities with the CZI Science team and the external community. Represent CZI for the Open Research Funders Group.
+_Senior Program Manager_. Drive the execution of open science initiatives for the [Open Science program at CZI](https://chanzuckerberg.com/science/programs-resources/open-science/). Develop strategies for promoting and enabling open science through funding and advocacy. Manage the development and operations of grant programs to support open science, including designing and executing requests for proposals, driving targeted grants, and tracking and reporting grantee progress. Run workshops and undertake landscaping activities to inform future grant making. Coordinate open science activities with the CZI Science team and the external community. Represent CZI for the Open Research Funders Group.
 
 
 ### 2018 - 2020: [Fred Hutchinson Cancer Research Center](http://fredhutch.org)
