@@ -26,7 +26,10 @@ stats"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
 
-Open science and data management leader with strengths in developing academic data science programs, driving research software development, and coordinating collaborative projects in data-intensive research. Skilled in forging partnerships, aligning activities with strategic organizational goals, facilitating development of tools and resources for better research, and connecting individuals to facilitate the progress of science.
+Creative, independent leader with strengths in program development, strategic thinking, and implement-
+ing novel solutions to problems in spaces adjacent to scientific research. Skilled in forging partnerships,
+aligning activities with organizational goals, facilitating development of tools and resources for better
+research, and connecting individuals to accelerate the progress of science.
 
 **Currently** I am Senior Program Manager for [Open Science](https://chanzuckerberg.com/science/programs-resources/open-science/) at the Chan Zuckerberg Initiative. In this role, I drive the execution of open science initiatives, develop strategies for promoting and enabling open science through funding and advocacy, and manage the development and operations of grant programs to support open science.
 
