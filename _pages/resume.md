@@ -1,6 +1,6 @@
 ---
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download full CV as PDF](https://strasser.github.io/files/cv.pdf)**
+**[Download resume as PDF](https://strasser.github.io/files/cv.pdf)**
 
 ---
 
