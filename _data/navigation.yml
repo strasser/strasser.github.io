@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
 
-  - title: "Products"
-    url: /products/
+  - title: "Outputs"
+    url: /outputs/
 
 #  - title: "Previous Research"
 #    url: /previous-research/    
