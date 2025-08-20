@@ -25,17 +25,26 @@ src="//c.statcounter.com/11294611/0/a8d240cd/1/" alt="web
 stats"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
+I am a mission-driven leader and strategist with 15+ years of experience advancing the future of science through thoughtful philanthropy, research infrastructure, and cross-sector collaboration.
 
-Creative, independent leader with strengths in program development, strategic thinking, and implement-
-ing novel solutions to problems in spaces adjacent to scientific research. Skilled in forging partnerships,
-aligning activities with organizational goals, facilitating development of tools and resources for better
-research, and connecting individuals to accelerate the progress of science.
+My work sits at the intersection of science, philanthropy, and systems design — where I help organizations imagine, design, and implement initiatives that make research more open, collaborative, and impactful. I specialize in supporting philanthropies and funder groups to define strategy, launch grantmaking programs, and operationalize open science practices among grantees.
 
-**Currently** I am Senior Program Manager for [Open Science](https://chanzuckerberg.com/science/programs-resources/open-science/) at the Chan Zuckerberg Initiative. In this role, I drive the execution of open science initiatives, develop strategies for promoting and enabling open science through funding and advocacy, and manage the development and operations of grant programs to support open science.
+With a PhD in science, deep experience in grantmaking and program strategy, and an MBA in progress, I bring both technical fluency and strategic clarity to every engagement. I’ve worked across academia, nonprofits, and philanthropy, and have built tools, communities, and teams that drive scientific progress.
+
+**Core strengths**
+
+ • Designing and implementing grant programs & review processes
+ • Open science strategy, incentive design, and community-building
+ • Facilitating cross-disciplinary collaborations and partnerships
+ • Advising academic data science programs and research leaders
+ • Translating big ideas into operational plans and measurable outcomes
+ • Building and mentoring high-performing, values-aligned teams 
+ 
+**Currently** I am Senior Program Manager for [Open Science](https://chanzuckerberg.com/science/programs-resources/open-science/) at the Chan Zuckerberg Initiative. In this role, I drive the execution of open science initiatives, develop strategies for promoting and enabling open science, and manage the development and operations of grant programs.
 
 **Previously** I was the Director of Alliances and Data Strategy at the [Fred Hutchinson Cancer Research Center](http://www.fredhutch.org/en.html). I led a team to strategically support data-intensive research at Fred Hutch through internal and external partnerships, community building, infrastructure development, and new initiatives designed to facilitate data science. I was also a Program Officer for the Data-Driven Discovery Initiative, an effort within the [Moore Foundation](http://www.moore.org)'s Science Program focused on promoting academic data science. 
 
-I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program. My full resume is available [here](https://strasser.github.io/files/cv.pdf).
+I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program. My full resume is available [here](https://strasser.github.io/files/cv.pdf). I am currently working towards my MBA from UC Berkeley's Haas Business School. 
 
 ### Looking for blog posts? 
 Check out [strasser.github.io/blog-posts](https://strasser.github.io/blog-posts/)
