@@ -47,7 +47,10 @@ With a PhD in science, deep experience in grantmaking and program strategy, and 
 
 I received a B.A. in Marine Science and a Ph.D. in Biological Oceanography from the MIT/WHOI Joint Program. My full resume is available [here](https://strasser.github.io/files/cv.pdf). I am currently working towards my MBA from UC Berkeley's Haas Business School. 
 
-### Looking for blog posts? 
+
+***
+
+**Looking for blog posts?**
 Check out [strasser.github.io/blog-posts](https://strasser.github.io/blog-posts/)
 
 <!-- 
