@@ -37,7 +37,9 @@ With a PhD in science, deep experience in grantmaking and program strategy, and 
 - Facilitating cross-disciplinary collaborations and partnerships
 - Advising academic data science programs and research leaders
 - Translating big ideas into operational plans and measurable outcomes
-- Building and mentoring high-performing, values-aligned teams 
+- Building and mentoring high-performing, values-aligned teams
+
+***
  
 **Currently** I am Senior Program Manager for [Open Science](https://chanzuckerberg.com/science/programs-resources/open-science/) at the Chan Zuckerberg Initiative. In this role, I drive the execution of open science initiatives, develop strategies for promoting and enabling open science, and manage the development and operations of grant programs.
 
