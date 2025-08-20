@@ -32,13 +32,12 @@ My work sits at the intersection of science, philanthropy, and systems design �
 With a PhD in science, deep experience in grantmaking and program strategy, and an MBA in progress, I bring both technical fluency and strategic clarity to every engagement. I’ve worked across academia, nonprofits, and philanthropy, and have built tools, communities, and teams that drive scientific progress.
 
 **Core strengths**
-
- • Designing and implementing grant programs & review processes
- • Open science strategy, incentive design, and community-building
- • Facilitating cross-disciplinary collaborations and partnerships
- • Advising academic data science programs and research leaders
- • Translating big ideas into operational plans and measurable outcomes
- • Building and mentoring high-performing, values-aligned teams 
+- Designing and implementing grant programs & review processes
+- Open science strategy, incentive design, and community-building
+- Facilitating cross-disciplinary collaborations and partnerships
+- Advising academic data science programs and research leaders
+- Translating big ideas into operational plans and measurable outcomes
+- Building and mentoring high-performing, values-aligned teams 
  
 **Currently** I am Senior Program Manager for [Open Science](https://chanzuckerberg.com/science/programs-resources/open-science/) at the Chan Zuckerberg Initiative. In this role, I drive the execution of open science initiatives, develop strategies for promoting and enabling open science, and manage the development and operations of grant programs.
 
